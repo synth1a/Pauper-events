@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HareruyaEvents//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:晴れる屋イベント
+BEGIN:VEVENT
+UID:hareruya-549189@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260328T120000
+DTEND;TZID=Asia/Tokyo:20260328T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/549189/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-546720@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260328T133000
+DTEND;TZID=Asia/Tokyo:20260328T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/546720/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-553735@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260329T110000
+DTEND;TZID=Asia/Tokyo:20260329T130000
+SUMMARY:ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/553735/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555262@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260404T120000
+DTEND;TZID=Asia/Tokyo:20260404T140000
+SUMMARY:プロモ版ユウナ争奪チャレンジパウパー[5回戦]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/555262/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555070@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260404T133000
+DTEND;TZID=Asia/Tokyo:20260404T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/555070/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-552565@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260404T140000
+DTEND;TZID=Asia/Tokyo:20260404T160000
+SUMMARY:『ストリクスヘイヴンの秘密』1BOX争奪パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/552565/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555237@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260405T120000
+DTEND;TZID=Asia/Tokyo:20260405T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/555237/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-558587@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260405T120000
+DTEND;TZID=Asia/Tokyo:20260405T140000
+SUMMARY:10\,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]
+LOCATION:水戸
+URL:https://www.hareruyamtg.com/ja/events/558587/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-556913@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260411T110000
+DTEND;TZID=Asia/Tokyo:20260411T130000
+SUMMARY:ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/556913/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555263@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260411T120000
+DTEND;TZID=Asia/Tokyo:20260411T140000
+SUMMARY:プロモ版ユウナ争奪チャレンジパウパー[5回戦]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/555263/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555238@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260412T120000
+DTEND;TZID=Asia/Tokyo:20260412T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/555238/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-560821@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260412T133000
+DTEND;TZID=Asia/Tokyo:20260412T153000
+SUMMARY:英語版《オークの弓使い》争奪パウパー
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/560821/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-553828@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260418T130000
+DTEND;TZID=Asia/Tokyo:20260418T150000
+SUMMARY:10\,000Hareruya Point争奪パウパー
+LOCATION:高崎
+URL:https://www.hareruyamtg.com/ja/events/553828/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-553392@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260425T130000
+DTEND;TZID=Asia/Tokyo:20260425T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/553392/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555071@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260425T133000
+DTEND;TZID=Asia/Tokyo:20260425T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/555071/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-556918@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260426T110000
+DTEND;TZID=Asia/Tokyo:20260426T130000
+SUMMARY:ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/556918/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555240@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260426T120000
+DTEND;TZID=Asia/Tokyo:20260426T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/555240/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-562035@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260426T120000
+DTEND;TZID=Asia/Tokyo:20260426T140000
+SUMMARY:『ストリクスヘイヴンの秘密』BOX争奪パウパー
+LOCATION:京都
+URL:https://www.hareruyamtg.com/ja/events/562035/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-560571@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260426T130000
+DTEND;TZID=Asia/Tokyo:20260426T150000
+SUMMARY:争奪パウパー
+LOCATION:郡山
+URL:https://www.hareruyamtg.com/ja/events/560571/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-555352@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260502T130000
+DTEND;TZID=Asia/Tokyo:20260502T150000
+SUMMARY:プロモ版ユウナ争奪チャレンジパウパー[5回戦]
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/555352/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 5回戦
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-562062@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260503T120000
+DTEND;TZID=Asia/Tokyo:20260503T140000
+SUMMARY:レア不死鳥S賞争奪パウパー
+LOCATION:京都
+URL:https://www.hareruyamtg.com/ja/events/562062/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-558789@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260504T133000
+DTEND;TZID=Asia/Tokyo:20260504T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯特別版[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/558789/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-553401@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260506T130000
+DTEND;TZID=Asia/Tokyo:20260506T150000
+SUMMARY:10\,000 Hareruya Points 争奪パウパー杯
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/553401/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-562776@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260509T133000
+DTEND;TZID=Asia/Tokyo:20260509T153000
+SUMMARY:高額カード争奪パウパー
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/562776/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-563988@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260517T140000
+DTEND;TZID=Asia/Tokyo:20260517T160000
+SUMMARY:争奪パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/563988/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-562783@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260524T133000
+DTEND;TZID=Asia/Tokyo:20260524T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/562783/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-562784@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260531T133000
+DTEND;TZID=Asia/Tokyo:20260531T153000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/562784/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+END:VCALENDAR

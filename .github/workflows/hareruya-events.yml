@@ -1,0 +1,60 @@
+name: Hareruya Pauper Events
+
+on:
+  schedule:
+    # 毎日 UTC 0:00 (JST 9:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth
+
+      - name: Setup GCal credentials
+        if: env.GCAL_CREDENTIALS != ''
+        env:
+          GCAL_CREDENTIALS: ${{ secrets.GCAL_CREDENTIALS }}
+        run: echo "$GCAL_CREDENTIALS" > /tmp/gcal-credentials.json
+
+      - name: Fetch events
+        env:
+          GCAL_CREDENTIALS: ${{ secrets.GCAL_CREDENTIALS }}
+        run: |
+          GCAL_FLAG=""
+          if [ -f /tmp/gcal-credentials.json ]; then
+            GCAL_FLAG="--sync-gcal --gcal-creds /tmp/gcal-credentials.json"
+          fi
+          python fetch.py \
+            --format pauper \
+            --shop all \
+            --months 3 \
+            --days sat,sun \
+            --se-only \
+            --output all \
+            --min-fee 1000 \
+            --out-dir docs \
+            $GCAL_FLAG
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update hareruya pauper events $(date -u +%Y-%m-%d)"
+            git push
+          fi
