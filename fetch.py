@@ -521,7 +521,7 @@ def generate_html(events: list[dict], fmt_filter: str, generated_at: str,
   <div class="event-time">{_html_escape(ev['time'])}</div>
   <div class="event-body">
     <a href="{_html_escape(ev['url'])}" target="_blank" rel="noopener noreferrer" class="event-title">{_html_escape(ev['title'])}</a>
-    <div class="event-meta">{fmt_badges}{tag_badges}{fee_badge}{shop_text}<a href="{gcal}" target="_blank" rel="noopener noreferrer" class="gcal-link" title="Googleカレンダーに追加">+GCal</a></div>
+    <div class="event-meta">{fmt_badges}{tag_badges}{fee_badge}{shop_text}<a href="{gcal}" target="_blank" rel="noopener noreferrer" class="gcal-link" title="Googleカレンダーに追加">Googleカレンダーに追加</a></div>
   </div>
 </div>
 """
