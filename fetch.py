@@ -390,7 +390,7 @@ def filter_events(events: list[dict], fmt: str | None, days: list[int] | None,
         # SEフィルタ
         if se_only:
             has_se = any("SE" in tag or "決勝" in tag for tag in ev["tags"])
-            has_cup = "争奪" in ev["title"]
+            has_cup = "争奪" in ev["title"] or "トライアル" in ev["title"]
             if not has_se and not has_cup:
                 continue
 
