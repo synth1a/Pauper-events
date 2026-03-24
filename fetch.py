@@ -608,8 +608,6 @@ footer {{ text-align: center; margin-top: 2rem; padding: 1rem; font-size: 0.8rem
   <h1>晴れる屋パウパー 土日SEイベント</h1>
   <div class="header-meta">
     <span class="updated">最終更新: {_html_escape(generated_at)}</span>
-    <a href="events.ics" download>iCalダウンロード (.ics)</a>
-    <a href="events.json">JSON</a>
   </div>
 </header>
 {gcal_section}<div class="filter-bar">
