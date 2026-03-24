@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-03-24 20:34",
+  "fetched_at": "2026-03-24 20:49",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 27,
+  "total": 30,
   "events": [
     {
       "id": "549189",
@@ -60,6 +60,22 @@
       "fee": 1000
     },
     {
+      "id": "550239",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-03-29",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/550239/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
+      "fee": 1000
+    },
+    {
       "id": "555262",
       "title": "プロモ版ユウナ争奪チャレンジパウパー[5回戦]",
       "date": "2026-04-04",
@@ -75,6 +91,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "557465",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-04-04",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/557465/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
       "fee": 1000
     },
     {
@@ -335,6 +367,22 @@
       "shop": "郡山",
       "shop_key": "koriyama",
       "shop_id": 16,
+      "fee": 1000
+    },
+    {
+      "id": "564110",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-04-29",
+      "time": "13:00",
+      "weekday": "水",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/564110/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
       "fee": 1000
     },
     {

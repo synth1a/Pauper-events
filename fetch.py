@@ -99,6 +99,18 @@ SHOP_GCAL_COLORS: dict[str, str] = {
     "nomeruya": "8",                         # グラファイト（灰）
 }
 
+GCAL_COLOR_TO_CSS: dict[str, str] = {
+    "2": "#33b679",   # セージ（薄緑）— 甲信越・北陸・静岡
+    "3": "#8e24aa",   # ぶどう（紫）— 関西
+    "5": "#f6bf26",   # バナナ（黄）— 北海道・東北
+    "6": "#f4511e",   # みかん（橙）— 東京・神奈川
+    "7": "#039be5",   # ピーコック（青緑）— 中国・四国・九州
+    "8": "#616161",   # グラファイト（灰）— のめるや
+    "9": "#3f51b5",   # ブルーベリー（濃青）— TC東京・TC大阪
+    "10": "#0b8043",  # バジル（緑）— 北関東
+    "11": "#d50000",  # トマト（赤）— 東海
+}
+
 WEEKDAY_JA = {"月": 0, "火": 1, "水": 2, "木": 3, "金": 4, "土": 5, "日": 6}
 WEEKDAY_EN = {"mon": 0, "tue": 1, "wed": 2, "thu": 3, "fri": 4, "sat": 5, "sun": 6}
 
@@ -506,29 +518,24 @@ def generate_html(events: list[dict], fmt_filter: str, generated_at: str,
 
         for ev in by_date[date_str]:
             shop_attr = _html_escape(ev.get("shop", ""))
-            fmt_badges = "".join(
-                f'<span class="badge badge-{f}">{f}</span>' for f in ev.get("formats", [])
-            )
-            tag_badges = "".join(
-                f'<span class="badge badge-tag">{t}</span>' for t in ev.get("tags", [])
-            )
-            fee_badge = ""
-            if ev.get("fee"):
-                fee_badge = f'<span class="badge badge-fee">{ev["fee"]:,}円</span>'
-            shop_text = f'<span class="shop">{shop_attr}</span>' if ev.get("shop") else ""
+            shop_key = ev.get("shop_key", "")
+            gcal_color_id = SHOP_GCAL_COLORS.get(shop_key, "1")
+            label_color = GCAL_COLOR_TO_CSS.get(gcal_color_id, "#1a73e8")
             gcal = _html_escape(_gcal_url(ev))
             is_trial = "true" if "トライアル" in ev.get("title", "") else "false"
             cards_html += f"""<div class="event-card" data-shop="{shop_attr}" data-trial="{is_trial}">
   <div class="event-time">{_html_escape(ev['time'])}</div>
   <div class="event-body">
     <a href="{_html_escape(ev['url'])}" target="_blank" rel="noopener noreferrer" class="event-title">{_html_escape(ev['title'])}</a>
-    <div class="event-meta">{fmt_badges}{tag_badges}{fee_badge}{shop_text}<a href="{gcal}" target="_blank" rel="noopener noreferrer" class="gcal-link" title="Googleカレンダーに追加">Googleカレンダーに追加</a></div>
+    <div class="event-meta"><span class="shop-label" style="background:{label_color}">{shop_attr}</span><a href="{gcal}" target="_blank" rel="noopener noreferrer" class="gcal-link" title="Googleカレンダーに追加">Googleカレンダーに追加</a></div>
   </div>
 </div>
 """
 
     # 店舗フィルタ用のオプションHTML
-    shop_options = '<option value="all">すべての店舗</option>\n'
+    kanto_shops = ["TC東京", "水戸", "宇都宮", "高崎", "千葉", "成田", "大宮", "渋谷", "秋葉原", "吉祥寺", "町田", "川崎", "横浜"]
+    shop_options = '<option value="kanto" selected>関東圏</option>\n'
+    shop_options += '        <option value="all">すべての店舗</option>\n'
     for shop in sorted(shops_set):
         shop_options += f'        <option value="{_html_escape(shop)}">{_html_escape(shop)}</option>\n'
 
@@ -592,7 +599,7 @@ h2 {{ font-size: 1.1rem; padding: 0.5rem 0; border-bottom: 2px solid #ddd; }}
 .badge-other {{ background: #eceff1; color: #546e7a; }}
 .badge-tag {{ background: #f5f5f5; color: #666; border: 1px solid #ddd; }}
 .badge-fee {{ background: #fff8e1; color: #f57f17; border: 1px solid #ffe082; }}
-.shop {{ font-size: 0.75rem; color: #888; margin-left: 0.3rem; }}
+.shop-label {{ font-size: 0.8rem; font-weight: 700; color: #fff; background: #1a73e8; padding: 0.15rem 0.6rem; border-radius: 4px; white-space: nowrap; align-self: center; }}
 .gcal-link {{ font-size: 0.7rem; color: #1a73e8; text-decoration: none; margin-left: 0.3rem; padding: 0.1rem 0.4rem; border: 1px solid #c5d8f8; border-radius: 3px; }}
 .gcal-link:hover {{ background: #e8f0fe; }}
 .gcal-embed {{ background: #fff; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); padding: 0.5rem; margin-bottom: 1rem; overflow: hidden; }}
@@ -626,6 +633,7 @@ function filterByShop(shop) {{
   document.getElementById('shop-filter').value = shop;
   filterEvents();
 }}
+var KANTO = ["TC東京","水戸","宇都宮","高崎","千葉","成田","大宮","渋谷","秋葉原","吉祥寺","町田","川崎","横浜"];
 function filterEvents() {{
   var shop = document.getElementById('shop-filter').value;
   var trialOnly = document.getElementById('trial-filter').checked;
@@ -633,7 +641,8 @@ function filterEvents() {{
   var headers = document.querySelectorAll('.date-header');
   var count = 0;
   cards.forEach(function(card) {{
-    var shopMatch = (shop === 'all' || card.getAttribute('data-shop') === shop);
+    var s = card.getAttribute('data-shop');
+    var shopMatch = (shop === 'all' || (shop === 'kanto' ? KANTO.indexOf(s) !== -1 : s === shop));
     var trialMatch = (!trialOnly || card.getAttribute('data-trial') === 'true');
     if (shopMatch && trialMatch) {{
       card.classList.remove('hidden');
@@ -656,6 +665,7 @@ function filterEvents() {{
   }});
   document.getElementById('event-count').textContent = count + '件';
 }}
+filterEvents();
 </script>
 </body>
 </html>"""
