@@ -7,7 +7,7 @@ import sys
 import io
 import time
 import urllib.request
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 
@@ -677,8 +677,40 @@ def _html_escape(text: str) -> str:
             .replace(">", "&gt;").replace('"', "&quot;"))
 
 
+def _build_gcal_event_id(hareruya_id: str) -> str:
+    """晴れる屋イベントIDからGCal用イベントIDを生成（英数小文字のみ）"""
+    return f"hareruya{hareruya_id}"
+
+
+def _build_gcal_body(ev: dict) -> dict:
+    """イベント辞書からGCal APIリクエストボディを組み立てる"""
+    body: dict = {
+        "summary": ev["title"],
+        "location": ev.get("shop", ""),
+        "description": ev["url"],
+        "source": {"title": "晴れる屋", "url": ev["url"]},
+    }
+    if ev["time"]:
+        try:
+            dt = datetime.strptime(f"{ev['date']} {ev['time']}", "%Y-%m-%d %H:%M")
+            dt_end = dt + timedelta(hours=2)
+            body["start"] = {"dateTime": dt.strftime("%Y-%m-%dT%H:%M:%S"), "timeZone": "Asia/Tokyo"}
+            body["end"] = {"dateTime": dt_end.strftime("%Y-%m-%dT%H:%M:%S"), "timeZone": "Asia/Tokyo"}
+        except ValueError:
+            body["start"] = {"date": ev["date"]}
+            body["end"] = {"date": ev["date"]}
+    else:
+        body["start"] = {"date": ev["date"]}
+        body["end"] = {"date": ev["date"]}
+
+    shop_key = ev.get("shop_key", "")
+    color_id = SHOP_GCAL_COLORS.get(shop_key, "1")
+    body["colorId"] = color_id
+    return body
+
+
 def sync_to_gcal(events: list[dict], gcal_id: str, creds_path: str) -> int:
-    """Google Calendar APIでイベントを同期。追加件数を返す"""
+    """Google Calendar APIでイベントをupsert同期。追加・更新件数を返す"""
     from google.oauth2 import service_account
     from googleapiclient.discovery import build
 
@@ -687,51 +719,49 @@ def sync_to_gcal(events: list[dict], gcal_id: str, creds_path: str) -> int:
         creds_path, scopes=SCOPES)
     service = build("calendar", "v3", credentials=creds)
 
-    # 既存イベントを全削除（専用カレンダー前提）
+    # 既存イベントを取得（ID→イベントのマップ）
+    existing: dict[str, dict] = {}
     page_token = None
     while True:
         result = service.events().list(
             calendarId=gcal_id, pageToken=page_token, maxResults=250
         ).execute()
         for item in result.get("items", []):
-            service.events().delete(
-                calendarId=gcal_id, eventId=item["id"]
-            ).execute()
+            existing[item["id"]] = item
         page_token = result.get("nextPageToken")
         if not page_token:
             break
 
-    # 新しいイベントを追加
-    added = 0
+    # 新しいイベントをupsert（insert or update）
+    new_ids: set[str] = set()
+    synced = 0
     for ev in events:
-        body: dict = {
-            "summary": ev["title"],
-            "location": ev.get("shop", ""),
-            "description": ev["url"],
-            "source": {"title": "晴れる屋", "url": ev["url"]},
-        }
-        if ev["time"]:
-            try:
-                dt = datetime.strptime(f"{ev['date']} {ev['time']}", "%Y-%m-%d %H:%M")
-                dt_end = dt + timedelta(hours=2)
-                body["start"] = {"dateTime": dt.strftime("%Y-%m-%dT%H:%M:%S"), "timeZone": "Asia/Tokyo"}
-                body["end"] = {"dateTime": dt_end.strftime("%Y-%m-%dT%H:%M:%S"), "timeZone": "Asia/Tokyo"}
-            except ValueError:
-                body["start"] = {"date": ev["date"]}
-                body["end"] = {"date": ev["date"]}
+        gcal_event_id = _build_gcal_event_id(ev["id"])
+        new_ids.add(gcal_event_id)
+        body = _build_gcal_body(ev)
+
+        if gcal_event_id in existing:
+            # 既存イベントを更新
+            service.events().update(
+                calendarId=gcal_id, eventId=gcal_event_id, body=body
+            ).execute()
         else:
-            body["start"] = {"date": ev["date"]}
-            body["end"] = {"date": ev["date"]}
+            # 新規追加（IDを指定）
+            body["id"] = gcal_event_id
+            service.events().insert(calendarId=gcal_id, body=body).execute()
+        synced += 1
 
-        # 店舗ごとのカラー設定
-        shop_key = ev.get("shop_key", "")
-        color_id = SHOP_GCAL_COLORS.get(shop_key, "1")
-        body["colorId"] = color_id
+    # 不要になったイベントを削除（新しいリストにないもの）
+    for old_id in existing:
+        if old_id not in new_ids:
+            try:
+                service.events().delete(
+                    calendarId=gcal_id, eventId=old_id
+                ).execute()
+            except Exception:
+                pass
 
-        service.events().insert(calendarId=gcal_id, body=body).execute()
-        added += 1
-
-    return added
+    return synced
 
 
 def load_config() -> dict:
@@ -821,7 +851,8 @@ def main():
     days_filter = parse_days(args.days)
     fmt = args.format.lower()
 
-    now = datetime.now()
+    JST = timezone(timedelta(hours=9))
+    now = datetime.now(JST)
     all_events: list[dict] = []
 
     # 対象月リスト
