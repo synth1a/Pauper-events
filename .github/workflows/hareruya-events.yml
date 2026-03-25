@@ -22,15 +22,17 @@ jobs:
       - name: Install dependencies
         run: pip install google-api-python-client google-auth
 
-      - name: Setup GCal credentials
-        if: env.GCAL_CREDENTIALS != ''
+      - name: Setup config and credentials
         env:
           GCAL_CREDENTIALS: ${{ secrets.GCAL_CREDENTIALS }}
-        run: echo "$GCAL_CREDENTIALS" > /tmp/gcal-credentials.json
+          GCAL_ID: ${{ secrets.GCAL_ID }}
+        run: |
+          echo "{\"gcal_id\": \"${GCAL_ID}\", \"pages_url\": \"\"}" > config.json
+          if [ -n "$GCAL_CREDENTIALS" ]; then
+            echo "$GCAL_CREDENTIALS" > /tmp/gcal-credentials.json
+          fi
 
       - name: Fetch events
-        env:
-          GCAL_CREDENTIALS: ${{ secrets.GCAL_CREDENTIALS }}
         run: |
           GCAL_FLAG=""
           if [ -f /tmp/gcal-credentials.json ]; then
