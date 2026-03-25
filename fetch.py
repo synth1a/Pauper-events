@@ -678,8 +678,8 @@ def _html_escape(text: str) -> str:
 
 
 def _build_gcal_event_id(hareruya_id: str) -> str:
-    """晴れる屋イベントIDからGCal用イベントIDを生成（英数小文字のみ）"""
-    return f"hareruya{hareruya_id}"
+    """晴れる屋イベントIDからGCal用イベントIDを生成（base32hex: a-v, 0-9のみ）"""
+    return f"hrr{hareruya_id}"
 
 
 def _build_gcal_body(ev: dict) -> dict:
