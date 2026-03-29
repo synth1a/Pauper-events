@@ -1,46 +1,10 @@
 {
-  "fetched_at": "2026-03-28 11:06",
+  "fetched_at": "2026-03-29 11:25",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
   "total": 29,
   "events": [
-    {
-      "id": "549189",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-03-28",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/549189/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "546720",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-03-28",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/546720/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "553735",
       "title": "ポイント争奪パウパー[決勝SEあり]",
@@ -284,6 +248,24 @@
       "fee": 1000
     },
     {
+      "id": "556918",
+      "title": "ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-04-26",
+      "time": "11:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/556918/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
       "id": "555240",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-04-26",
@@ -483,6 +465,24 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "565834",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-05-31",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/565834/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
       "fee": 1000
     },
     {
