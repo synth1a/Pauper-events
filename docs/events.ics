@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-553735@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260329T110000
-DTEND;TZID=Asia/Tokyo:20260329T130000
-SUMMARY:ポイント争奪パウパー[決勝SEあり]
-LOCATION:秋葉原
-URL:https://www.hareruyamtg.com/ja/events/553735/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-550239@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260329T130000
-DTEND;TZID=Asia/Tokyo:20260329T150000
-SUMMARY:パウパー神挑戦者決定戦トライアル
-LOCATION:吉祥寺
-URL:https://www.hareruyamtg.com/ja/events/550239/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-555262@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260404T120000
 DTEND;TZID=Asia/Tokyo:20260404T140000
