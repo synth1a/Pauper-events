@@ -221,6 +221,15 @@ URL:https://www.hareruyamtg.com/ja/events/563988/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-567031@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260523T120000
+DTEND;TZID=Asia/Tokyo:20260523T140000
+SUMMARY:争奪パウパー
+LOCATION:京都
+URL:https://www.hareruyamtg.com/ja/events/567031/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-562783@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260524T133000
 DTEND;TZID=Asia/Tokyo:20260524T153000
