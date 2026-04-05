@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-555262@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260404T120000
-DTEND;TZID=Asia/Tokyo:20260404T140000
-SUMMARY:プロモ版ユウナ争奪チャレンジパウパー[5回戦]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/555262/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 5回戦
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-557465@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260404T120000
-DTEND;TZID=Asia/Tokyo:20260404T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル
-LOCATION:横浜
-URL:https://www.hareruyamtg.com/ja/events/557465/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-555070@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260404T133000
-DTEND;TZID=Asia/Tokyo:20260404T153000
-SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
-LOCATION:宇都宮
-URL:https://www.hareruyamtg.com/ja/events/555070/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-552565@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260404T140000
-DTEND;TZID=Asia/Tokyo:20260404T160000
-SUMMARY:『ストリクスヘイヴンの秘密』1BOX争奪パウパー
-LOCATION:TC大阪
-URL:https://www.hareruyamtg.com/ja/events/552565/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-555237@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260405T120000
 DTEND;TZID=Asia/Tokyo:20260405T140000
