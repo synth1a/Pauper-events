@@ -1,46 +1,10 @@
 {
-  "fetched_at": "2026-04-05 11:27",
+  "fetched_at": "2026-04-06 11:29",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 27,
+  "total": 26,
   "events": [
-    {
-      "id": "555237",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-04-05",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/555237/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "558587",
-      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
-      "date": "2026-04-05",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SE有り"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/558587/detail",
-      "shop": "水戸",
-      "shop_key": "mito",
-      "shop_id": 22,
-      "fee": 1000
-    },
     {
       "id": "555263",
       "title": "プロモ版ユウナ争奪チャレンジパウパー[5回戦]",
@@ -381,6 +345,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "568468",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-05-23",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/568468/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
       "fee": 1000
     },
     {
