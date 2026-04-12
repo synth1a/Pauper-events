@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-555263@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260411T120000
-DTEND;TZID=Asia/Tokyo:20260411T140000
-SUMMARY:プロモ版ユウナ争奪チャレンジパウパー[5回戦]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/555263/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 5回戦
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-555238@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260412T120000
 DTEND;TZID=Asia/Tokyo:20260412T140000
