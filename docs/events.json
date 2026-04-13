@@ -1,44 +1,10 @@
 {
-  "fetched_at": "2026-04-12 11:32",
+  "fetched_at": "2026-04-13 11:37",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 30,
+  "total": 28,
   "events": [
-    {
-      "id": "555238",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-04-12",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/555238/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "560821",
-      "title": "英語版《オークの弓使い》争奪パウパー",
-      "date": "2026-04-12",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/560821/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "553828",
       "title": "10,000Hareruya Point争奪パウパー",
