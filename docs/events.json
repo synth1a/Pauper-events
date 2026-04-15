@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-14 11:31",
+  "fetched_at": "2026-04-15 11:29",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 28,
+  "total": 29,
   "events": [
     {
       "id": "553828",
@@ -441,6 +441,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "571445",
+      "title": "パウパー東海王決定戦トライアル",
+      "date": "2026-05-30",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/571445/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
       "fee": 1000
     },
     {

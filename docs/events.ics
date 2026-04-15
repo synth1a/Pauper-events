@@ -239,6 +239,15 @@ URL:https://www.hareruyamtg.com/ja/events/567867/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-571445@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260530T130000
+DTEND;TZID=Asia/Tokyo:20260530T150000
+SUMMARY:パウパー東海王決定戦トライアル
+LOCATION:大須
+URL:https://www.hareruyamtg.com/ja/events/571445/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-565834@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260531T130000
 DTEND;TZID=Asia/Tokyo:20260531T150000
