@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-15 11:29",
+  "fetched_at": "2026-04-16 11:36",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 29,
+  "total": 30,
   "events": [
     {
       "id": "553828",
@@ -457,6 +457,22 @@
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
+      "fee": 1000
+    },
+    {
+      "id": "571560",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-05-30",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/571560/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
       "fee": 1000
     },
     {
