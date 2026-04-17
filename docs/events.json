@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-16 11:36",
+  "fetched_at": "2026-04-17 11:32",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 30,
+  "total": 32,
   "events": [
     {
       "id": "553828",
@@ -137,6 +137,24 @@
       "shop": "郡山",
       "shop_key": "koriyama",
       "shop_id": 16,
+      "fee": 1000
+    },
+    {
+      "id": "571957",
+      "title": "ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-04-26",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/571957/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
       "fee": 1000
     },
     {
@@ -405,6 +423,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "571854",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-05-24",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/571854/detail",
+      "shop": "三宮",
+      "shop_key": "sannomiya",
+      "shop_id": 19,
       "fee": 1000
     },
     {
