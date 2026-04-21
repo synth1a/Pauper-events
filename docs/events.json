@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20 11:38",
+  "fetched_at": "2026-04-21 11:33",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
@@ -246,8 +246,8 @@
       "fee": 1000
     },
     {
-      "id": "562776",
-      "title": "高額カード争奪パウパー",
+      "id": "572363",
+      "title": "■日本画■《定業/Preordain》２枚争奪パウパー",
       "date": "2026-05-09",
       "time": "13:30",
       "weekday": "土",
@@ -255,7 +255,7 @@
         "pauper"
       ],
       "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/562776/detail",
+      "url": "https://www.hareruyamtg.com/ja/events/572363/detail",
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
