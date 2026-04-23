@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-22 11:31",
+  "fetched_at": "2026-04-23 11:35",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 30,
+  "total": 33,
   "events": [
     {
       "id": "553392",
@@ -178,6 +178,25 @@
       "fee": 1000
     },
     {
+      "id": "573041",
+      "title": "『毘沙門天決定戦』パウパー[決勝SE有り][予約可]",
+      "date": "2026-05-03",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り",
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/573041/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
+      "fee": 2000
+    },
+    {
       "id": "562062",
       "title": "レア不死鳥S賞争奪パウパー",
       "date": "2026-05-03",
@@ -261,6 +280,24 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "573048",
+      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
+      "date": "2026-05-09",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/573048/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
       "fee": 1000
     },
     {
@@ -493,6 +530,24 @@
       "shop": "TC大阪",
       "shop_key": "tc_osaka",
       "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "565834",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-05-31",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/565834/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
       "fee": 1000
     },
     {

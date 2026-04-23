@@ -95,6 +95,15 @@ URL:https://www.hareruyamtg.com/ja/events/572966/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-573041@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260503T120000
+DTEND;TZID=Asia/Tokyo:20260503T140000
+SUMMARY:『毘沙門天決定戦』パウパー[決勝SE有り][予約可]
+LOCATION:水戸
+URL:https://www.hareruyamtg.com/ja/events/573041/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り\, 予約可
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-562062@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260503T120000
 DTEND;TZID=Asia/Tokyo:20260503T140000
@@ -138,6 +147,15 @@ SUMMARY:10\,000 Hareruya Points 争奪パウパー杯
 LOCATION:大宮
 URL:https://www.hareruyamtg.com/ja/events/553401/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-573048@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260509T120000
+DTEND;TZID=Asia/Tokyo:20260509T140000
+SUMMARY:10\,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]
+LOCATION:水戸
+URL:https://www.hareruyamtg.com/ja/events/573048/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-572363@hareruyamtg.com
@@ -264,6 +282,15 @@ SUMMARY:関帝前哨戦パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/571560/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-565834@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260531T130000
+DTEND;TZID=Asia/Tokyo:20260531T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/565834/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-562784@hareruyamtg.com
