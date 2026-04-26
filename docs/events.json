@@ -1,62 +1,10 @@
 {
-  "fetched_at": "2026-04-25 11:25",
+  "fetched_at": "2026-04-26 11:40",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 33,
+  "total": 30,
   "events": [
-    {
-      "id": "553392",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-04-25",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/553392/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 1000
-    },
-    {
-      "id": "555676",
-      "title": "『ストリクスヘイヴンの秘密』BOX山分けパウパー！",
-      "date": "2026-04-25",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/555676/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1000
-    },
-    {
-      "id": "555071",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-04-25",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/555071/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "555240",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
