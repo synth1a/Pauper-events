@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-27 11:42",
+  "fetched_at": "2026-04-28 11:50",
   "format_filter": "pauper",
   "days_filter": "sat,sun",
   "se_only": true,
-  "total": 26,
+  "total": 28,
   "events": [
     {
       "id": "564110",
@@ -413,6 +413,24 @@
       "fee": 1000
     },
     {
+      "id": "575865",
+      "title": "[東海王前哨戦]Let's5 パウパー",
+      "date": "2026-05-31",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "東海王前哨戦"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/575865/detail",
+      "shop": "名古屋",
+      "shop_key": "nagoya",
+      "shop_id": 6,
+      "fee": 1000
+    },
+    {
       "id": "565834",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-05-31",
@@ -428,6 +446,24 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "575781",
+      "title": "ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-05-31",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/575781/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
       "fee": 1000
     },
     {
