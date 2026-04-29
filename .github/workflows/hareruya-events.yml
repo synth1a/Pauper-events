@@ -42,7 +42,6 @@ jobs:
             --format pauper \
             --shop all \
             --months 3 \
-            --days sat,sun \
             --se-only \
             --output all \
             --min-fee 1000 \
