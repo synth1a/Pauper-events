@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-04-29 14:30",
+  "fetched_at": "2026-04-30 11:51",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 29,
+  "total": 28,
   "events": [
-    {
-      "id": "564110",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-04-29",
-      "time": "13:00",
-      "weekday": "水",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/564110/detail",
-      "shop": "吉祥寺",
-      "shop_key": "kichijoji",
-      "shop_id": 17,
-      "fee": 1000
-    },
     {
       "id": "555352",
       "title": "プロモ版ユウナ争奪チャレンジパウパー[5回戦]",
