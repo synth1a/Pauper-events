@@ -256,4 +256,22 @@ LOCATION:宇都宮
 URL:https://www.hareruyamtg.com/ja/events/562784/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-576679@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260620T140000
+DTEND;TZID=Asia/Tokyo:20260620T160000
+SUMMARY:関帝前哨戦パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/576679/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-576693@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260627T140000
+DTEND;TZID=Asia/Tokyo:20260627T160000
+SUMMARY:争奪パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/576693/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
 END:VCALENDAR

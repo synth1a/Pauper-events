@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-01 11:57",
+  "fetched_at": "2026-05-02 11:38",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 30,
   "events": [
     {
       "id": "555352",
@@ -484,6 +484,38 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "576679",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/576679/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "576693",
+      "title": "争奪パウパー",
+      "date": "2026-06-27",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/576693/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
       "fee": 1000
     }
   ]
