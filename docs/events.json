@@ -1,46 +1,10 @@
 {
-  "fetched_at": "2026-05-02 11:38",
+  "fetched_at": "2026-05-03 11:50",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 30,
+  "total": 28,
   "events": [
-    {
-      "id": "555352",
-      "title": "プロモ版ユウナ争奪チャレンジパウパー[5回戦]",
-      "date": "2026-05-02",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "5回戦"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/555352/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 1000
-    },
-    {
-      "id": "572966",
-      "title": "ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-05-02",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/572966/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
-      "fee": 1000
-    },
     {
       "id": "573041",
       "title": "『毘沙門天決定戦』パウパー[決勝SE有り][予約可]",
