@@ -1,45 +1,10 @@
 {
-  "fetched_at": "2026-05-03 11:50",
+  "fetched_at": "2026-05-04 11:47",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 26,
   "events": [
-    {
-      "id": "573041",
-      "title": "『毘沙門天決定戦』パウパー[決勝SE有り][予約可]",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SE有り",
-        "予約可"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/573041/detail",
-      "shop": "水戸",
-      "shop_key": "mito",
-      "shop_id": 22,
-      "fee": 2000
-    },
-    {
-      "id": "562062",
-      "title": "レア不死鳥S賞争奪パウパー",
-      "date": "2026-05-03",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/562062/detail",
-      "shop": "京都",
-      "shop_key": "kyoto",
-      "shop_id": 29,
-      "fee": 1000
-    },
     {
       "id": "559605",
       "title": "第16回パウパー提督決定戦[予約可]",
@@ -182,7 +147,7 @@
     },
     {
       "id": "569413",
-      "title": "争奪パウパー",
+      "title": "■日本画■《輪作》争奪パウパー",
       "date": "2026-05-10",
       "time": "13:00",
       "weekday": "日",
@@ -246,7 +211,7 @@
     },
     {
       "id": "567031",
-      "title": "争奪パウパー",
+      "title": "《意志の力》争奪パウパー",
       "date": "2026-05-23",
       "time": "12:00",
       "weekday": "土",
@@ -259,22 +224,6 @@
       "shop_key": "kyoto",
       "shop_id": 29,
       "fee": 1000
-    },
-    {
-      "id": "569517",
-      "title": "10,000Hareruya Point争奪パウパー",
-      "date": "2026-05-23",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/569517/detail",
-      "shop": "高崎",
-      "shop_key": "takasaki",
-      "shop_id": 28,
-      "fee": 1500
     },
     {
       "id": "569921",
@@ -345,6 +294,22 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 1000
+    },
+    {
+      "id": "576903",
+      "title": "10,000Hareruya Point争奪パウパー",
+      "date": "2026-05-30",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/576903/detail",
+      "shop": "高崎",
+      "shop_key": "takasaki",
+      "shop_id": 28,
+      "fee": 1500
     },
     {
       "id": "571445",

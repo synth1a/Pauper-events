@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-573041@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260503T120000
-DTEND;TZID=Asia/Tokyo:20260503T140000
-SUMMARY:『毘沙門天決定戦』パウパー[決勝SE有り][予約可]
-LOCATION:水戸
-URL:https://www.hareruyamtg.com/ja/events/573041/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り\, 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-562062@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260503T120000
-DTEND;TZID=Asia/Tokyo:20260503T140000
-SUMMARY:レア不死鳥S賞争奪パウパー
-LOCATION:京都
-URL:https://www.hareruyamtg.com/ja/events/562062/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-559605@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260504T120000
 DTEND;TZID=Asia/Tokyo:20260504T140000
@@ -98,7 +80,7 @@ BEGIN:VEVENT
 UID:hareruya-569413@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260510T130000
 DTEND;TZID=Asia/Tokyo:20260510T150000
-SUMMARY:争奪パウパー
+SUMMARY:■日本画■《輪作》争奪パウパー
 LOCATION:郡山
 URL:https://www.hareruyamtg.com/ja/events/569413/detail
 DESCRIPTION:フォーマット: pauper
@@ -134,18 +116,9 @@ BEGIN:VEVENT
 UID:hareruya-567031@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260523T120000
 DTEND;TZID=Asia/Tokyo:20260523T140000
-SUMMARY:争奪パウパー
+SUMMARY:《意志の力》争奪パウパー
 LOCATION:京都
 URL:https://www.hareruyamtg.com/ja/events/567031/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-569517@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260523T130000
-DTEND;TZID=Asia/Tokyo:20260523T150000
-SUMMARY:10\,000Hareruya Point争奪パウパー
-LOCATION:高崎
-URL:https://www.hareruyamtg.com/ja/events/569517/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
@@ -183,6 +156,15 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/567867/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-576903@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260530T130000
+DTEND;TZID=Asia/Tokyo:20260530T150000
+SUMMARY:10\,000Hareruya Point争奪パウパー
+LOCATION:高崎
+URL:https://www.hareruyamtg.com/ja/events/576903/detail
+DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-571445@hareruyamtg.com
