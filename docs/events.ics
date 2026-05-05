@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-559605@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260504T120000
-DTEND;TZID=Asia/Tokyo:20260504T140000
-SUMMARY:第16回パウパー提督決定戦[予約可]
-LOCATION:横浜
-URL:https://www.hareruyamtg.com/ja/events/559605/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-558789@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260504T133000
-DTEND;TZID=Asia/Tokyo:20260504T153000
-SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯特別版[決勝SEあり]
-LOCATION:宇都宮
-URL:https://www.hareruyamtg.com/ja/events/558789/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-565577@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260506T120000
 DTEND;TZID=Asia/Tokyo:20260506T140000
