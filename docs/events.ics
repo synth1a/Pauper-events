@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-567857@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260510T120000
-DTEND;TZID=Asia/Tokyo:20260510T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/567857/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-569413@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260510T130000
-DTEND;TZID=Asia/Tokyo:20260510T150000
-SUMMARY:■日本画■《輪作》争奪パウパー
-LOCATION:郡山
-URL:https://www.hareruyamtg.com/ja/events/569413/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-565825@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260516T130000
 DTEND;TZID=Asia/Tokyo:20260516T150000
@@ -176,6 +158,15 @@ URL:https://www.hareruyamtg.com/ja/events/579113/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 予約可
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-579372@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260613T130000
+DTEND;TZID=Asia/Tokyo:20260613T150000
+SUMMARY:20\,000Hareruya Point争奪パウパー
+LOCATION:高崎
+URL:https://www.hareruyamtg.com/ja/events/579372/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-578567@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260613T130000
 DTEND;TZID=Asia/Tokyo:20260613T150000
@@ -194,12 +185,12 @@ URL:https://www.hareruyamtg.com/ja/events/579156/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
-UID:hareruya-579295@hareruyamtg.com
+UID:hareruya-579550@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260620T130000
 DTEND;TZID=Asia/Tokyo:20260620T150000
 SUMMARY:『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！
 LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/579295/detail
+URL:https://www.hareruyamtg.com/ja/events/579550/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
@@ -228,5 +219,14 @@ SUMMARY:争奪パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/576693/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-579553@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260628T130000
+DTEND;TZID=Asia/Tokyo:20260628T150000
+SUMMARY:『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！
+LOCATION:大須
+URL:https://www.hareruyamtg.com/ja/events/579553/detail
+DESCRIPTION:フォーマット: pioneer\, pauper
 END:VEVENT
 END:VCALENDAR

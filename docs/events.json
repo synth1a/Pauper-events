@@ -1,44 +1,10 @@
 {
-  "fetched_at": "2026-05-10 11:52",
+  "fetched_at": "2026-05-11 12:28",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
   "total": 25,
   "events": [
-    {
-      "id": "567857",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-05-10",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/567857/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "569413",
-      "title": "■日本画■《輪作》争奪パウパー",
-      "date": "2026-05-10",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/569413/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
-    },
     {
       "id": "565825",
       "title": "第10回大宮パウパー”彩”強決定戦",
@@ -330,6 +296,22 @@
       "fee": 2000
     },
     {
+      "id": "579372",
+      "title": "20,000Hareruya Point争奪パウパー",
+      "date": "2026-06-13",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579372/detail",
+      "shop": "高崎",
+      "shop_key": "takasaki",
+      "shop_id": 28,
+      "fee": 2000
+    },
+    {
       "id": "578567",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-06-13",
@@ -364,7 +346,7 @@
       "fee": 2000
     },
     {
-      "id": "579295",
+      "id": "579550",
       "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！",
       "date": "2026-06-20",
       "time": "13:00",
@@ -373,11 +355,11 @@
         "pauper"
       ],
       "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/579295/detail",
+      "url": "https://www.hareruyamtg.com/ja/events/579550/detail",
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
-      "fee": 1000
+      "fee": 1500
     },
     {
       "id": "576679",
@@ -426,6 +408,23 @@
       "shop_key": "tc_osaka",
       "shop_id": 5,
       "fee": 1000
+    },
+    {
+      "id": "579553",
+      "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！",
+      "date": "2026-06-28",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pioneer",
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579553/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 1500
     }
   ]
 }
