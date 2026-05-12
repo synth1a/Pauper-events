@@ -140,6 +140,15 @@ URL:https://www.hareruyamtg.com/ja/events/562784/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-579564@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260607T120000
+DTEND;TZID=Asia/Tokyo:20260607T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/579564/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-579148@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260607T133000
 DTEND;TZID=Asia/Tokyo:20260607T153000
@@ -174,6 +183,15 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:大宮
 URL:https://www.hareruyamtg.com/ja/events/578567/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-579616@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260613T150000
+DTEND;TZID=Asia/Tokyo:20260613T170000
+SUMMARY:豪華!!シングルカード争奪パウパー[じゃんけん大会開催]
+LOCATION:大須
+URL:https://www.hareruyamtg.com/ja/events/579616/detail
+DESCRIPTION:フォーマット: pauper\nタグ: じゃんけん大会開催
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-579156@hareruyamtg.com
@@ -219,6 +237,15 @@ SUMMARY:争奪パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/576693/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-579565@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260628T120000
+DTEND;TZID=Asia/Tokyo:20260628T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/579565/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-579553@hareruyamtg.com
