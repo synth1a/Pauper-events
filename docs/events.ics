@@ -185,12 +185,12 @@ URL:https://www.hareruyamtg.com/ja/events/578567/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
-UID:hareruya-579616@hareruyamtg.com
+UID:hareruya-580755@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260613T150000
 DTEND;TZID=Asia/Tokyo:20260613T170000
 SUMMARY:豪華!!シングルカード争奪パウパー[じゃんけん大会開催]
 LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/579616/detail
+URL:https://www.hareruyamtg.com/ja/events/580755/detail
 DESCRIPTION:フォーマット: pauper\nタグ: じゃんけん大会開催
 END:VEVENT
 BEGIN:VEVENT
@@ -246,14 +246,5 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/579565/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-579553@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260628T130000
-DTEND;TZID=Asia/Tokyo:20260628T150000
-SUMMARY:『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！
-LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/579553/detail
-DESCRIPTION:フォーマット: pioneer\, pauper
 END:VEVENT
 END:VCALENDAR

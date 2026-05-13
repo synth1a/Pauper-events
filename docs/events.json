@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-12 11:53",
+  "fetched_at": "2026-05-13 11:57",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 27,
   "events": [
     {
       "id": "565825",
@@ -348,7 +348,7 @@
       "fee": 1000
     },
     {
-      "id": "579616",
+      "id": "580755",
       "title": "豪華!!シングルカード争奪パウパー[じゃんけん大会開催]",
       "date": "2026-06-13",
       "time": "15:00",
@@ -359,7 +359,7 @@
       "tags": [
         "じゃんけん大会開催"
       ],
-      "url": "https://www.hareruyamtg.com/ja/events/579616/detail",
+      "url": "https://www.hareruyamtg.com/ja/events/580755/detail",
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
@@ -462,23 +462,6 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 1000
-    },
-    {
-      "id": "579553",
-      "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！",
-      "date": "2026-06-28",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pioneer",
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/579553/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1500
     }
   ]
 }
