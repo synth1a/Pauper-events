@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-14 12:23",
+  "fetched_at": "2026-05-15 12:26",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 27,
+  "total": 28,
   "events": [
     {
       "id": "565825",
@@ -275,6 +275,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "581019",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-06-07",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/581019/detail",
+      "shop": "日本橋",
+      "shop_key": "nipponbashi",
+      "shop_id": 23,
       "fee": 1000
     },
     {
