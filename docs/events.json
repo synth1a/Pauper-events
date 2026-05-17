@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-05-16 11:50",
+  "fetched_at": "2026-05-17 11:58",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
   "total": 29,
   "events": [
-    {
-      "id": "565825",
-      "title": "第10回大宮パウパー”彩”強決定戦",
-      "date": "2026-05-16",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/565825/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 2000
-    },
     {
       "id": "563988",
       "title": "《意志の力》争奪パウパー",
@@ -257,6 +241,22 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "582366",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582366/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
       "fee": 1000
     },
     {
