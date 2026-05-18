@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-05-17 11:58",
+  "fetched_at": "2026-05-18 12:37",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 29,
+  "total": 31,
   "events": [
-    {
-      "id": "563988",
-      "title": "《意志の力》争奪パウパー",
-      "date": "2026-05-17",
-      "time": "14:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/563988/detail",
-      "shop": "TC大阪",
-      "shop_key": "tc_osaka",
-      "shop_id": 5,
-      "fee": 1000
-    },
     {
       "id": "568468",
       "title": "パウパー神挑戦者決定戦トライアル",
@@ -244,6 +228,24 @@
       "fee": 1000
     },
     {
+      "id": "582659",
+      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/582659/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
+      "fee": 1000
+    },
+    {
       "id": "582366",
       "title": "パウパー神挑戦者決定戦トライアル",
       "date": "2026-06-06",
@@ -276,6 +278,22 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 1000
+    },
+    {
+      "id": "582867",
+      "title": "パウパー虎王決定戦",
+      "date": "2026-06-07",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582867/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 2000
     },
     {
       "id": "581019",
@@ -328,6 +346,22 @@
       "shop_key": "osu",
       "shop_id": 18,
       "fee": 2000
+    },
+    {
+      "id": "582871",
+      "title": "争奪パウパー",
+      "date": "2026-06-13",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582871/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 1000
     },
     {
       "id": "579372",
