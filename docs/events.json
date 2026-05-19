@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-18 12:37",
+  "fetched_at": "2026-05-19 12:30",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 31,
+  "total": 32,
   "events": [
     {
       "id": "568468",
@@ -528,6 +528,27 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 1000
+    },
+    {
+      "id": "583337",
+      "title": "第14期パウパー神挑戦者決定戦[競技][決勝SE][配信][予約可]",
+      "date": "2026-07-18",
+      "time": "10:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "競技",
+        "決勝SE",
+        "配信",
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/583337/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 2000
     }
   ]
 }
