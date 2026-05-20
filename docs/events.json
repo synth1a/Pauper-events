@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-19 12:30",
+  "fetched_at": "2026-05-20 12:30",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 32,
+  "total": 33,
   "events": [
     {
       "id": "568468",
@@ -432,6 +432,24 @@
       "fee": 2000
     },
     {
+      "id": "583657",
+      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-06-14",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/583657/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
       "id": "579156",
       "title": "『マーベル スーパー・ヒーローズ』BOX引換券争奪パウパー",
       "date": "2026-06-14",
@@ -497,7 +515,7 @@
     },
     {
       "id": "576693",
-      "title": "争奪パウパー",
+      "title": "《黙示録、シェオルドレッド》争奪パウパー",
       "date": "2026-06-27",
       "time": "14:00",
       "weekday": "土",

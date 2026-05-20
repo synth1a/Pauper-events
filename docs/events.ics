@@ -230,6 +230,15 @@ URL:https://www.hareruyamtg.com/ja/events/581822/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-583657@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260614T130000
+DTEND;TZID=Asia/Tokyo:20260614T150000
+SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/583657/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-579156@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260614T133000
 DTEND;TZID=Asia/Tokyo:20260614T153000
@@ -269,7 +278,7 @@ BEGIN:VEVENT
 UID:hareruya-576693@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260627T140000
 DTEND;TZID=Asia/Tokyo:20260627T160000
-SUMMARY:争奪パウパー
+SUMMARY:《黙示録、シェオルドレッド》争奪パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/576693/detail
 DESCRIPTION:フォーマット: pauper
