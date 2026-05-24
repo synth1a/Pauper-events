@@ -1,42 +1,10 @@
 {
-  "fetched_at": "2026-05-23 11:52",
+  "fetched_at": "2026-05-24 12:32",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 34,
+  "total": 33,
   "events": [
-    {
-      "id": "568468",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-05-23",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/568468/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
-      "fee": 1000
-    },
-    {
-      "id": "567031",
-      "title": "《意志の力》争奪パウパー",
-      "date": "2026-05-23",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/567031/detail",
-      "shop": "京都",
-      "shop_key": "kyoto",
-      "shop_id": 29,
-      "fee": 1000
-    },
     {
       "id": "569921",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
@@ -495,6 +463,22 @@
       "shop": "TC大阪",
       "shop_key": "tc_osaka",
       "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "585480",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-06-27",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/585480/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
       "fee": 1000
     },
     {
