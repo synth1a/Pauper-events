@@ -1,62 +1,10 @@
 {
-  "fetched_at": "2026-05-24 12:32",
+  "fetched_at": "2026-05-25 12:43",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 33,
+  "total": 35,
   "events": [
-    {
-      "id": "569921",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-05-24",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/569921/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "571854",
-      "title": "関帝前哨戦パウパー",
-      "date": "2026-05-24",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/571854/detail",
-      "shop": "三宮",
-      "shop_key": "sannomiya",
-      "shop_id": 19,
-      "fee": 1000
-    },
-    {
-      "id": "562783",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-05-24",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/562783/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "567867",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
@@ -251,7 +199,7 @@
       "id": "582867",
       "title": "パウパー虎王決定戦",
       "date": "2026-06-07",
-      "time": "13:00",
+      "time": "12:00",
       "weekday": "日",
       "formats": [
         "pauper"
@@ -319,7 +267,7 @@
       "id": "582871",
       "title": "争奪パウパー",
       "date": "2026-06-13",
-      "time": "13:00",
+      "time": "12:00",
       "weekday": "土",
       "formats": [
         "pauper"
@@ -550,6 +498,60 @@
       "fee": 1000
     },
     {
+      "id": "585763",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-04",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585763/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "585765",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585765/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "585766",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585766/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
       "id": "583337",
       "title": "第14期パウパー神挑戦者決定戦[競技][決勝SE][配信][予約可]",
       "date": "2026-07-18",
@@ -569,6 +571,43 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 2000
+    },
+    {
+      "id": "586098",
+      "title": "【神挑戦者決定戦開催記念】プロモゲットパウパー[5回戦][ランダム賞あり]",
+      "date": "2026-07-19",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "5回戦",
+        "ランダム賞あり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/586098/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "585767",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585767/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
     }
   ]
 }
