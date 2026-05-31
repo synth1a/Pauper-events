@@ -1,76 +1,10 @@
 {
-  "fetched_at": "2026-05-30 11:57",
+  "fetched_at": "2026-05-31 12:44",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 36,
+  "total": 32,
   "events": [
-    {
-      "id": "567867",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-05-30",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/567867/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "576903",
-      "title": "10,000Hareruya Point争奪パウパー",
-      "date": "2026-05-30",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/576903/detail",
-      "shop": "高崎",
-      "shop_key": "takasaki",
-      "shop_id": 28,
-      "fee": 1500
-    },
-    {
-      "id": "571445",
-      "title": "パウパー東海王決定戦トライアル",
-      "date": "2026-05-30",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/571445/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1000
-    },
-    {
-      "id": "571560",
-      "title": "関帝前哨戦パウパー",
-      "date": "2026-05-30",
-      "time": "14:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/571560/detail",
-      "shop": "TC大阪",
-      "shop_key": "tc_osaka",
-      "shop_id": 5,
-      "fee": 1000
-    },
     {
       "id": "575865",
       "title": "[東海王前哨戦]Let's5 パウパー",
