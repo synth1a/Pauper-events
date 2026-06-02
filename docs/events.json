@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-01 12:59",
+  "fetched_at": "2026-06-02 12:54",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 29,
   "events": [
     {
       "id": "582659",
@@ -127,7 +127,7 @@
     },
     {
       "id": "582871",
-      "title": "争奪パウパー",
+      "title": "《魂の洞窟》争奪パウパー",
       "date": "2026-06-13",
       "time": "12:00",
       "weekday": "土",
@@ -375,6 +375,24 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "588662",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-05",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/588662/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
       "fee": 1000
     },
     {
