@@ -1,8 +1,509 @@
 {
-  "fetched_at": "2026-06-05 12:40",
+  "fetched_at": "2026-06-05 21:00",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 0,
-  "events": []
+  "total": 29,
+  "events": [
+    {
+      "id": "582659",
+      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/582659/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
+      "fee": 1000
+    },
+    {
+      "id": "582366",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-06-06",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582366/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 1000
+    },
+    {
+      "id": "579564",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-06-07",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/579564/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "582867",
+      "title": "パウパー虎王決定戦",
+      "date": "2026-06-07",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582867/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 2000
+    },
+    {
+      "id": "581019",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-06-07",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/581019/detail",
+      "shop": "日本橋",
+      "shop_key": "nipponbashi",
+      "shop_id": 23,
+      "fee": 1000
+    },
+    {
+      "id": "579148",
+      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
+      "date": "2026-06-07",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/579148/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "579113",
+      "title": "パウパー東海王決定戦 [予約可]",
+      "date": "2026-06-13",
+      "time": "11:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/579113/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 2000
+    },
+    {
+      "id": "582871",
+      "title": "《魂の洞窟》争奪パウパー",
+      "date": "2026-06-13",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/582871/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 1000
+    },
+    {
+      "id": "579372",
+      "title": "20,000Hareruya Point争奪パウパー",
+      "date": "2026-06-13",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579372/detail",
+      "shop": "高崎",
+      "shop_key": "takasaki",
+      "shop_id": 28,
+      "fee": 2000
+    },
+    {
+      "id": "578567",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-06-13",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/578567/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "580755",
+      "title": "豪華!!シングルカード争奪パウパー[じゃんけん大会開催]",
+      "date": "2026-06-13",
+      "time": "15:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "じゃんけん大会開催"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/580755/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 1000
+    },
+    {
+      "id": "581822",
+      "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』プレイ・ブースター1BOX争奪パウパー",
+      "date": "2026-06-14",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/581822/detail",
+      "shop": "京都",
+      "shop_key": "kyoto",
+      "shop_id": 29,
+      "fee": 2000
+    },
+    {
+      "id": "583657",
+      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-06-14",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/583657/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
+      "id": "579156",
+      "title": "『マーベル スーパー・ヒーローズ』BOX引換券争奪パウパー",
+      "date": "2026-06-14",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579156/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 2000
+    },
+    {
+      "id": "579550",
+      "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！",
+      "date": "2026-06-20",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579550/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 1500
+    },
+    {
+      "id": "576679",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/576679/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "585480",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-06-27",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/585480/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
+      "fee": 1000
+    },
+    {
+      "id": "579175",
+      "title": "拾代目パウパー『雷神』決定戦",
+      "date": "2026-06-27",
+      "time": "13:30",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/579175/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 2000
+    },
+    {
+      "id": "576693",
+      "title": "《黙示録、シェオルドレッド》争奪パウパー",
+      "date": "2026-06-27",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/576693/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "579565",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-06-28",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/579565/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "584703",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-06-28",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/584703/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
+      "id": "585763",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-04",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585763/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "588662",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-05",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/588662/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "585765",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585765/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "587750",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/587750/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "585766",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585766/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "583337",
+      "title": "第14期パウパー神挑戦者決定戦[競技][決勝SE][配信][予約可]",
+      "date": "2026-07-18",
+      "time": "10:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "競技",
+        "決勝SE",
+        "配信",
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/583337/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 2000
+    },
+    {
+      "id": "586098",
+      "title": "【神挑戦者決定戦開催記念】プロモゲットパウパー[5回戦][ランダム賞あり]",
+      "date": "2026-07-19",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "5回戦",
+        "ランダム賞あり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/586098/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "585767",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/585767/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    }
+  ]
 }
