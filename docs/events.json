@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-09 12:26",
+  "fetched_at": "2026-06-10 12:38",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 31,
   "events": [
     {
       "id": "579113",
@@ -310,6 +310,24 @@
       "fee": 1000
     },
     {
+      "id": "591207",
+      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
+      "date": "2026-07-05",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/591207/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 1000
+    },
+    {
       "id": "585765",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-07-11",
@@ -325,6 +343,24 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "591208",
+      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
+      "date": "2026-07-11",
+      "time": "13:30",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/591208/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
       "fee": 1000
     },
     {
@@ -383,6 +419,24 @@
       "fee": 2000
     },
     {
+      "id": "591237",
+      "title": "豪華!!シングルカード山分けパウパー[じゃんけん大会開催]",
+      "date": "2026-07-18",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "じゃんけん大会開催"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/591237/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 1000
+    },
+    {
       "id": "586098",
       "title": "【神挑戦者決定戦開催記念】プロモゲットパウパー[5回戦][ランダム賞あり]",
       "date": "2026-07-19",
@@ -402,6 +456,22 @@
       "fee": 1000
     },
     {
+      "id": "591231",
+      "title": "高額カード争奪パウパー",
+      "date": "2026-07-20",
+      "time": "13:30",
+      "weekday": "月",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/591231/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 1000
+    },
+    {
       "id": "590289",
       "title": "10,000Hareruya Point争奪パウパー",
       "date": "2026-07-20",
@@ -415,6 +485,22 @@
       "shop": "高崎",
       "shop_key": "takasaki",
       "shop_id": 28,
+      "fee": 1000
+    },
+    {
+      "id": "591415",
+      "title": "《意志の力》争奪パウパー",
+      "date": "2026-07-26",
+      "time": "11:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/591415/detail",
+      "shop": "名古屋",
+      "shop_key": "nagoya",
+      "shop_id": 6,
       "fee": 1000
     },
     {
@@ -433,6 +519,24 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "591209",
+      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
+      "date": "2026-07-26",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/591209/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
       "fee": 1000
     }
   ]
