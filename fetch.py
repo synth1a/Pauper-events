@@ -733,23 +733,45 @@ def sync_to_gcal(events: list[dict], gcal_id: str, creds_path: str) -> int:
             break
 
     # 新しいイベントをupsert（insert or update）
+    from googleapiclient.errors import HttpError
+
     new_ids: set[str] = set()
     synced = 0
+    failed = 0
     for ev in events:
         gcal_event_id = _build_gcal_event_id(ev["id"])
         new_ids.add(gcal_event_id)
         body = _build_gcal_body(ev)
 
-        if gcal_event_id in existing:
-            # 既存イベントを更新
-            service.events().update(
-                calendarId=gcal_id, eventId=gcal_event_id, body=body
-            ).execute()
-        else:
-            # 新規追加（IDを指定）
-            body["id"] = gcal_event_id
-            service.events().insert(calendarId=gcal_id, body=body).execute()
-        synced += 1
+        try:
+            if gcal_event_id in existing:
+                # 既存イベントを更新
+                service.events().update(
+                    calendarId=gcal_id, eventId=gcal_event_id, body=body
+                ).execute()
+            else:
+                # 新規追加（IDを指定）。409（削除済み保持中ID等で重複）の場合は
+                # update にフォールバックして復活・上書きする
+                body_with_id = dict(body, id=gcal_event_id)
+                try:
+                    service.events().insert(
+                        calendarId=gcal_id, body=body_with_id
+                    ).execute()
+                except HttpError as e:
+                    if getattr(e, "resp", None) is not None and e.resp.status == 409:
+                        service.events().update(
+                            calendarId=gcal_id, eventId=gcal_event_id, body=body
+                        ).execute()
+                    else:
+                        raise
+            synced += 1
+        except Exception as e:
+            # 1件の失敗で同期全体を止めない
+            failed += 1
+            print(f"  同期失敗 {gcal_event_id}: {e}", file=sys.stderr)
+
+    if failed:
+        print(f"  {failed}件の同期に失敗（残りは継続）", file=sys.stderr)
 
     # 不要になったイベントを削除（新しいリストにないもの）
     for old_id in existing:
