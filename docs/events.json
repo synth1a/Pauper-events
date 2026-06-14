@@ -1,96 +1,10 @@
 {
-  "fetched_at": "2026-06-13 12:38",
+  "fetched_at": "2026-06-14 12:59",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 31,
+  "total": 27,
   "events": [
-    {
-      "id": "579113",
-      "title": "パウパー東海王決定戦 [予約可]",
-      "date": "2026-06-13",
-      "time": "11:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "予約可"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/579113/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 2000
-    },
-    {
-      "id": "582871",
-      "title": "《魂の洞窟》争奪パウパー",
-      "date": "2026-06-13",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/582871/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
-    },
-    {
-      "id": "579372",
-      "title": "20,000Hareruya Point争奪パウパー",
-      "date": "2026-06-13",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/579372/detail",
-      "shop": "高崎",
-      "shop_key": "takasaki",
-      "shop_id": 28,
-      "fee": 2000
-    },
-    {
-      "id": "578567",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-06-13",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/578567/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 1000
-    },
-    {
-      "id": "580755",
-      "title": "豪華!!シングルカード争奪パウパー[じゃんけん大会開催]",
-      "date": "2026-06-13",
-      "time": "15:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "じゃんけん大会開催"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/580755/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1000
-    },
     {
       "id": "581822",
       "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』プレイ・ブースター1BOX争奪パウパー",
@@ -343,6 +257,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "594382",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/594382/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
       "fee": 1000
     },
     {

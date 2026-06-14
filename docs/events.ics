@@ -5,51 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-579113@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260613T110000
-DTEND;TZID=Asia/Tokyo:20260613T130000
-SUMMARY:パウパー東海王決定戦 [予約可]
-LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/579113/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-582871@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260613T120000
-DTEND;TZID=Asia/Tokyo:20260613T140000
-SUMMARY:《魂の洞窟》争奪パウパー
-LOCATION:郡山
-URL:https://www.hareruyamtg.com/ja/events/582871/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-579372@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260613T130000
-DTEND;TZID=Asia/Tokyo:20260613T150000
-SUMMARY:20\,000Hareruya Point争奪パウパー
-LOCATION:高崎
-URL:https://www.hareruyamtg.com/ja/events/579372/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-578567@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260613T130000
-DTEND;TZID=Asia/Tokyo:20260613T150000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:大宮
-URL:https://www.hareruyamtg.com/ja/events/578567/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-580755@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260613T150000
-DTEND;TZID=Asia/Tokyo:20260613T170000
-SUMMARY:豪華!!シングルカード争奪パウパー[じゃんけん大会開催]
-LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/580755/detail
-DESCRIPTION:フォーマット: pauper\nタグ: じゃんけん大会開催
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-581822@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260614T120000
 DTEND;TZID=Asia/Tokyo:20260614T140000
@@ -183,6 +138,15 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/585765/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-594382@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260711T120000
+DTEND;TZID=Asia/Tokyo:20260711T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル
+LOCATION:横浜
+URL:https://www.hareruyamtg.com/ja/events/594382/detail
+DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-591208@hareruyamtg.com
