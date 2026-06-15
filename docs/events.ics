@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-581822@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260614T120000
-DTEND;TZID=Asia/Tokyo:20260614T140000
-SUMMARY:『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』プレイ・ブースター1BOX争奪パウパー
-LOCATION:京都
-URL:https://www.hareruyamtg.com/ja/events/581822/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-583657@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260614T130000
-DTEND;TZID=Asia/Tokyo:20260614T150000
-SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
-LOCATION:秋葉原
-URL:https://www.hareruyamtg.com/ja/events/583657/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-579156@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260614T133000
-DTEND;TZID=Asia/Tokyo:20260614T153000
-SUMMARY:『マーベル スーパー・ヒーローズ』BOX引換券争奪パウパー
-LOCATION:宇都宮
-URL:https://www.hareruyamtg.com/ja/events/579156/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-579550@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260620T130000
 DTEND;TZID=Asia/Tokyo:20260620T150000
