@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-15 13:12",
+  "fetched_at": "2026-06-16 13:01",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 24,
+  "total": 25,
   "events": [
     {
       "id": "579550",
@@ -399,6 +399,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "596044",
+      "title": "争奪パウパー",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/596044/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
       "fee": 1000
     },
     {
