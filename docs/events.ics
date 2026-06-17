@@ -176,6 +176,15 @@ URL:https://www.hareruyamtg.com/ja/events/586098/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 5回戦\, ランダム賞あり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-591451@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260720T130000
+DTEND;TZID=Asia/Tokyo:20260720T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル
+LOCATION:吉祥寺
+URL:https://www.hareruyamtg.com/ja/events/591451/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-591231@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260720T133000
 DTEND;TZID=Asia/Tokyo:20260720T153000

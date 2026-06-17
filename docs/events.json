@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-16 13:01",
+  "fetched_at": "2026-06-17 13:02",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 26,
   "events": [
     {
       "id": "579550",
@@ -333,6 +333,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "591451",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-07-20",
+      "time": "13:00",
+      "weekday": "月",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/591451/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
       "fee": 1000
     },
     {
