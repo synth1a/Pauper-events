@@ -1,42 +1,10 @@
 {
-  "fetched_at": "2026-06-20 12:35",
+  "fetched_at": "2026-06-21 13:08",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 25,
   "events": [
-    {
-      "id": "579550",
-      "title": "『マジック：ザ・ギャザリング | マーベル スーパー・ヒーローズ』BOX山分けパウパー！",
-      "date": "2026-06-20",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/579550/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1000
-    },
-    {
-      "id": "576679",
-      "title": "関帝前哨戦パウパー",
-      "date": "2026-06-20",
-      "time": "14:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/576679/detail",
-      "shop": "TC大阪",
-      "shop_key": "tc_osaka",
-      "shop_id": 5,
-      "fee": 1000
-    },
     {
       "id": "585480",
       "title": "パウパー神挑戦者決定戦トライアル",
@@ -207,6 +175,24 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "603518",
+      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/603518/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
       "fee": 1000
     },
     {
