@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-585480@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260627T130000
-DTEND;TZID=Asia/Tokyo:20260627T150000
-SUMMARY:パウパー神挑戦者決定戦トライアル
-LOCATION:吉祥寺
-URL:https://www.hareruyamtg.com/ja/events/585480/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-579175@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260627T133000
-DTEND;TZID=Asia/Tokyo:20260627T153000
-SUMMARY:拾代目パウパー『雷神』決定戦
-LOCATION:宇都宮
-URL:https://www.hareruyamtg.com/ja/events/579175/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-576693@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260627T140000
-DTEND;TZID=Asia/Tokyo:20260627T160000
-SUMMARY:《黙示録、シェオルドレッド》争奪パウパー
-LOCATION:TC大阪
-URL:https://www.hareruyamtg.com/ja/events/576693/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-579565@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260628T120000
 DTEND;TZID=Asia/Tokyo:20260628T140000
@@ -165,6 +138,15 @@ SUMMARY:【神挑戦者決定戦開催記念】プロモゲットパウパー[5�
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/586098/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 5回戦\, ランダム賞あり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-604524@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260720T130000
+DTEND;TZID=Asia/Tokyo:20260720T150000
+SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/604524/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-591451@hareruyamtg.com
