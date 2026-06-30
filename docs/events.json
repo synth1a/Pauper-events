@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-29 12:50",
+  "fetched_at": "2026-06-30 12:35",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 22,
+  "total": 23,
   "events": [
     {
       "id": "585763",
@@ -357,7 +357,7 @@
     },
     {
       "id": "596044",
-      "title": "争奪パウパー",
+      "title": "《ファンタスティッカー》争奪パウパー",
       "date": "2026-07-26",
       "time": "12:00",
       "weekday": "日",
@@ -387,6 +387,24 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "605022",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-08-16",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/605022/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
       "fee": 1000
     }
   ]

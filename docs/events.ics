@@ -188,7 +188,7 @@ BEGIN:VEVENT
 UID:hareruya-596044@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260726T120000
 DTEND;TZID=Asia/Tokyo:20260726T140000
-SUMMARY:争奪パウパー
+SUMMARY:《ファンタスティッカー》争奪パウパー
 LOCATION:郡山
 URL:https://www.hareruyamtg.com/ja/events/596044/detail
 DESCRIPTION:フォーマット: pauper
@@ -201,5 +201,14 @@ SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり
 LOCATION:宇都宮
 URL:https://www.hareruyamtg.com/ja/events/591209/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-605022@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260816T130000
+DTEND;TZID=Asia/Tokyo:20260816T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/605022/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 END:VCALENDAR
