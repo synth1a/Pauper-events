@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-585763@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260704T120000
-DTEND;TZID=Asia/Tokyo:20260704T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/585763/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-604748@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260704T130000
-DTEND;TZID=Asia/Tokyo:20260704T150000
-SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
-LOCATION:秋葉原
-URL:https://www.hareruyamtg.com/ja/events/604748/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-590996@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260704T130000
-DTEND;TZID=Asia/Tokyo:20260704T150000
-SUMMARY:関帝前哨戦パウパー
-LOCATION:三宮
-URL:https://www.hareruyamtg.com/ja/events/590996/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-588662@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260705T130000
 DTEND;TZID=Asia/Tokyo:20260705T150000
@@ -212,12 +185,30 @@ URL:https://www.hareruyamtg.com/ja/events/605518/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-605787@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260815T120000
+DTEND;TZID=Asia/Tokyo:20260815T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/605787/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-605022@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260816T130000
 DTEND;TZID=Asia/Tokyo:20260816T150000
 SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:大宮
 URL:https://www.hareruyamtg.com/ja/events/605022/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-605788@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260830T120000
+DTEND;TZID=Asia/Tokyo:20260830T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/605788/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
