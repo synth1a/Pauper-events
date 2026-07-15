@@ -68,15 +68,6 @@ URL:https://www.hareruyamtg.com/ja/events/590289/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
-UID:hareruya-591415@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260726T110000
-DTEND;TZID=Asia/Tokyo:20260726T130000
-SUMMARY:《意志の力》争奪パウパー
-LOCATION:名古屋
-URL:https://www.hareruyamtg.com/ja/events/591415/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-585767@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260726T120000
 DTEND;TZID=Asia/Tokyo:20260726T140000
@@ -113,6 +104,15 @@ URL:https://www.hareruyamtg.com/ja/events/608864/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-608905@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260802T130000
+DTEND;TZID=Asia/Tokyo:20260802T150000
+SUMMARY:争奪 Pauper
+LOCATION:三宮
+URL:https://www.hareruyamtg.com/ja/events/608905/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-608868@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260809T133000
 DTEND;TZID=Asia/Tokyo:20260809T153000
@@ -128,6 +128,15 @@ DTEND;TZID=Asia/Tokyo:20260811T130000
 SUMMARY:関帝前哨戦パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/605518/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-591415@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260813T110000
+DTEND;TZID=Asia/Tokyo:20260813T130000
+SUMMARY:《意志の力》争奪パウパー
+LOCATION:名古屋
+URL:https://www.hareruyamtg.com/ja/events/591415/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
