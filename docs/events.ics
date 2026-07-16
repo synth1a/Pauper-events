@@ -107,7 +107,7 @@ BEGIN:VEVENT
 UID:hareruya-608905@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260802T130000
 DTEND;TZID=Asia/Tokyo:20260802T150000
-SUMMARY:争奪 Pauper
+SUMMARY:8000ポイント争奪パウパー
 LOCATION:三宮
 URL:https://www.hareruyamtg.com/ja/events/608905/detail
 DESCRIPTION:フォーマット: pauper
@@ -200,15 +200,6 @@ DTEND;TZID=Asia/Tokyo:20260823T140000
 SUMMARY:争奪パウパー
 LOCATION:郡山
 URL:https://www.hareruyamtg.com/ja/events/608734/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-608886@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260829T133000
-DTEND;TZID=Asia/Tokyo:20260829T153000
-SUMMARY:高額カード争奪パウパー
-LOCATION:宇都宮
-URL:https://www.hareruyamtg.com/ja/events/608886/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT

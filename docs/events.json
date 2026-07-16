@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-16 11:30",
+  "fetched_at": "2026-07-16 19:37",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 27,
+  "total": 26,
   "events": [
     {
       "id": "583337",
@@ -199,7 +199,7 @@
     },
     {
       "id": "608905",
-      "title": "争奪 Pauper",
+      "title": "8000ポイント争奪パウパー",
       "date": "2026-08-02",
       "time": "13:00",
       "weekday": "日",
@@ -211,7 +211,7 @@
       "shop": "三宮",
       "shop_key": "sannomiya",
       "shop_id": 19,
-      "fee": 2000
+      "fee": 1000
     },
     {
       "id": "608868",
@@ -381,22 +381,6 @@
       "shop": "郡山",
       "shop_key": "koriyama",
       "shop_id": 16,
-      "fee": 1000
-    },
-    {
-      "id": "608886",
-      "title": "高額カード争奪パウパー",
-      "date": "2026-08-29",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/608886/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
       "fee": 1000
     },
     {
