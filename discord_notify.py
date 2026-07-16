@@ -87,7 +87,11 @@ def api_request(url, payload, method):
     req = urllib.request.Request(
         url,
         data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            # Discord(Cloudflare)は Python-urllib のデフォルトUAを403で弾くため必須
+            "User-Agent": "PauperEventsBot (https://github.com/synth1a/Pauper-events, 1.0)",
+        },
         method=method,
     )
     with urllib.request.urlopen(req) as res:
