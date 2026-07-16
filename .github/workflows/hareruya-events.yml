@@ -48,6 +48,15 @@ jobs:
             --out-dir docs \
             $GCAL_FLAG
 
+      - name: Notify Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python discord_notify.py \
+            --json docs/events.json \
+            --days 14 \
+            --id-file docs/discord_message_id.txt
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
