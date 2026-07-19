@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-583337@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260718T100000
-DTEND;TZID=Asia/Tokyo:20260718T120000
-SUMMARY:第14期パウパー神挑戦者決定戦[競技][決勝SE][配信][予約可]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/583337/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 競技\, 決勝SE\, 配信\, 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-591237@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260718T130000
-DTEND;TZID=Asia/Tokyo:20260718T150000
-SUMMARY:豪華!!シングルカード山分けパウパー[じゃんけん大会開催]
-LOCATION:大須
-URL:https://www.hareruyamtg.com/ja/events/591237/detail
-DESCRIPTION:フォーマット: pauper\nタグ: じゃんけん大会開催
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-586098@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260719T120000
 DTEND;TZID=Asia/Tokyo:20260719T140000
@@ -149,6 +131,15 @@ URL:https://www.hareruyamtg.com/ja/events/591415/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-612403@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260813T120000
+DTEND;TZID=Asia/Tokyo:20260813T140000
+SUMMARY:10\,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]
+LOCATION:水戸
+URL:https://www.hareruyamtg.com/ja/events/612403/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-605787@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260815T120000
 DTEND;TZID=Asia/Tokyo:20260815T140000
@@ -156,6 +147,15 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/605787/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-612873@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260815T130000
+DTEND;TZID=Asia/Tokyo:20260815T150000
+SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
+LOCATION:秋葉原
+URL:https://www.hareruyamtg.com/ja/events/612873/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-609865@hareruyamtg.com
@@ -201,6 +201,15 @@ SUMMARY:争奪パウパー
 LOCATION:郡山
 URL:https://www.hareruyamtg.com/ja/events/608734/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-612398@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260823T120000
+DTEND;TZID=Asia/Tokyo:20260823T140000
+SUMMARY:『毘沙門天決定戦』パウパー[決勝SE有り][予約可]
+LOCATION:水戸
+URL:https://www.hareruyamtg.com/ja/events/612398/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り\, 予約可
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-609866@hareruyamtg.com
