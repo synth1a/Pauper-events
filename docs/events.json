@@ -1,29 +1,10 @@
 {
-  "fetched_at": "2026-07-19 11:36",
+  "fetched_at": "2026-07-20 11:51",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 27,
+  "total": 30,
   "events": [
-    {
-      "id": "586098",
-      "title": "【神挑戦者決定戦開催記念】プロモゲットパウパー[5回戦][ランダム賞あり]",
-      "date": "2026-07-19",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "5回戦",
-        "ランダム賞あり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/586098/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
     {
       "id": "604524",
       "title": "10,000ポイント争奪パウパー[決勝SEあり]",
@@ -159,6 +140,24 @@
       "fee": 2000
     },
     {
+      "id": "613386",
+      "title": "第17回パウパー提督決定戦[予約可]",
+      "date": "2026-08-02",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/613386/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 2000
+    },
+    {
       "id": "608905",
       "title": "8000ポイント争奪パウパー",
       "date": "2026-08-02",
@@ -194,7 +193,7 @@
     },
     {
       "id": "609873",
-      "title": "10,000Hareruya Point争奪パウパー",
+      "title": "【お盆休み限定】10,000Hareruya Point争奪パウパー",
       "date": "2026-08-10",
       "time": "14:00",
       "weekday": "月",
@@ -238,6 +237,22 @@
       "shop": "名古屋",
       "shop_key": "nagoya",
       "shop_id": 6,
+      "fee": 1000
+    },
+    {
+      "id": "613286",
+      "title": "■日本画■《定業》争奪パウパー",
+      "date": "2026-08-13",
+      "time": "12:00",
+      "weekday": "木",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/613286/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
       "fee": 1000
     },
     {
@@ -400,6 +415,40 @@
       "fee": 2000
     },
     {
+      "id": "613940",
+      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/613940/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
+      "id": "613738",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-08-29",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/613738/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 1000
+    },
+    {
       "id": "609866",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
       "date": "2026-08-29",
@@ -453,7 +502,7 @@
     },
     {
       "id": "609978",
-      "title": "20,000ポイント争奪パウパー",
+      "title": "20,000Hareruya Point争奪パウパー",
       "date": "2026-08-30",
       "time": "14:00",
       "weekday": "日",
