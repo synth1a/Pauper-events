@@ -143,7 +143,7 @@ BEGIN:VEVENT
 UID:hareruya-609582@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260816T120000
 DTEND;TZID=Asia/Tokyo:20260816T140000
-SUMMARY:シングルカード争奪パウパー
+SUMMARY:《勝利の楽士》2枚争奪パウパー
 LOCATION:京都
 URL:https://www.hareruyamtg.com/ja/events/609582/detail
 DESCRIPTION:フォーマット: pauper
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 UID:hareruya-605569@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260830T140000
 DTEND;TZID=Asia/Tokyo:20260830T160000
-SUMMARY:争奪パウパー
+SUMMARY:《意志の力》争奪パウパー
 LOCATION:TC大阪
 URL:https://www.hareruyamtg.com/ja/events/605569/detail
 DESCRIPTION:フォーマット: pauper
