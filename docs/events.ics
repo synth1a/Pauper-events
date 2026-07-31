@@ -247,4 +247,13 @@ LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/614444/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-617982@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260926T140000
+DTEND;TZID=Asia/Tokyo:20260926T160000
+SUMMARY:関帝前哨戦パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/617982/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
 END:VCALENDAR
