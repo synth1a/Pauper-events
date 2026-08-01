@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31 11:42",
+  "fetched_at": "2026-08-01 11:41",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
@@ -315,7 +315,7 @@
       "fee": 2000
     },
     {
-      "id": "613940",
+      "id": "618289",
       "title": "10,000ポイント争奪パウパー[決勝SEあり]",
       "date": "2026-08-23",
       "time": "13:00",
@@ -326,7 +326,7 @@
       "tags": [
         "決勝SEあり"
       ],
-      "url": "https://www.hareruyamtg.com/ja/events/613940/detail",
+      "url": "https://www.hareruyamtg.com/ja/events/618289/detail",
       "shop": "秋葉原",
       "shop_key": "akihabara",
       "shop_id": 8,
