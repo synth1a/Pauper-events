@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-08-01 11:41",
+  "fetched_at": "2026-08-02 11:40",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 27,
   "events": [
-    {
-      "id": "608864",
-      "title": "『マジック：ザ・ギャザリング | ホビット』BOX引換券争奪パウパー",
-      "date": "2026-08-01",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/608864/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 2000
-    },
     {
       "id": "613386",
       "title": "第17回パウパー提督決定戦[予約可]",
