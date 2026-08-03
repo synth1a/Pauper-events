@@ -1,44 +1,10 @@
 {
-  "fetched_at": "2026-08-02 11:40",
+  "fetched_at": "2026-08-03 11:41",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
   "total": 27,
   "events": [
-    {
-      "id": "613386",
-      "title": "第17回パウパー提督決定戦[予約可]",
-      "date": "2026-08-02",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "予約可"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/613386/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
-      "fee": 2000
-    },
-    {
-      "id": "608905",
-      "title": "8,000ポイント争奪晴れサンパウパー杯",
-      "date": "2026-08-02",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/608905/detail",
-      "shop": "三宮",
-      "shop_key": "sannomiya",
-      "shop_id": 19,
-      "fee": 1000
-    },
     {
       "id": "608868",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
@@ -246,6 +212,24 @@
       "fee": 1000
     },
     {
+      "id": "618520",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-08-22",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/618520/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
       "id": "614473",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
       "date": "2026-08-22",
@@ -434,6 +418,22 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "618536",
+      "title": "争奪パウパー",
+      "date": "2026-09-20",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/618536/detail",
+      "shop": "京都",
+      "shop_key": "kyoto",
+      "shop_id": 29,
       "fee": 1000
     },
     {
