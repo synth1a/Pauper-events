@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03 11:41",
+  "fetched_at": "2026-08-04 11:25",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
@@ -434,7 +434,7 @@
       "shop": "京都",
       "shop_key": "kyoto",
       "shop_id": 29,
-      "fee": 1000
+      "fee": 2000
     },
     {
       "id": "614444",
