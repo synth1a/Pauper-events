@@ -55,6 +55,7 @@ jobs:
           python discord_notify.py \
             --json docs/events.json \
             --days 14 \
+            --shops kanto \
             --id-file docs/discord_message_id.txt
 
       - name: Commit and push
