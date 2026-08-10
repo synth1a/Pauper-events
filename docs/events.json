@@ -1,28 +1,10 @@
 {
-  "fetched_at": "2026-08-09 10:38",
+  "fetched_at": "2026-08-10 10:41",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 27,
+  "total": 26,
   "events": [
-    {
-      "id": "608868",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-08-09",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/608868/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "609873",
       "title": "【お盆休み限定】10,000Hareruya Point争奪パウパー",
