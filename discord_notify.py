@@ -79,7 +79,7 @@ def build_embed(data, days, shops=None, area_label=""):
         "url": PAGES_URL,
         "color": EMBED_COLOR,
         "footer": {
-            "text": f"データ更新: {data.get('fetched_at', '不明')}（毎朝9時に自動更新）"
+            "text": f"データ更新: {data.get('fetched_at', '不明')}（毎日正午に自動更新）"
         },
     }
 
