@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-08-10 14:11",
+  "fetched_at": "2026-08-11 13:13",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 25,
   "events": [
-    {
-      "id": "609873",
-      "title": "【お盆休み限定】10,000Hareruya Point争奪パウパー",
-      "date": "2026-08-10",
-      "time": "14:00",
-      "weekday": "月",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/609873/detail",
-      "shop": "高崎",
-      "shop_key": "takasaki",
-      "shop_id": 28,
-      "fee": 1000
-    },
     {
       "id": "605518",
       "title": "関帝前哨戦パウパー",
