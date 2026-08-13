@@ -185,15 +185,6 @@ URL:https://www.hareruyamtg.com/ja/events/619782/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
-UID:hareruya-614391@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260913T120000
-DTEND;TZID=Asia/Tokyo:20260913T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/614391/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-616379@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260913T130000
 DTEND;TZID=Asia/Tokyo:20260913T150000
@@ -203,12 +194,39 @@ URL:https://www.hareruyamtg.com/ja/events/616379/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-620312@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260913T133000
+DTEND;TZID=Asia/Tokyo:20260913T153000
+SUMMARY:パウパー雷神前哨戦 晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/620312/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-620314@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260919T133000
+DTEND;TZID=Asia/Tokyo:20260919T153000
+SUMMARY:拾壱代目パウパー『雷神』決定戦
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/620314/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-618536@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260920T120000
 DTEND;TZID=Asia/Tokyo:20260920T140000
 SUMMARY:『マジック：ザ・ギャザリング | リアリティ・フラクチャー』1BOX争奪パウパー
 LOCATION:京都
 URL:https://www.hareruyamtg.com/ja/events/618536/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-620318@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260920T133000
+DTEND;TZID=Asia/Tokyo:20260920T153000
+SUMMARY:『リアリティ・フラクチャー』BOX引換券争奪パウパー
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/620318/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT

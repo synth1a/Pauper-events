@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-12 13:41",
+  "fetched_at": "2026-08-13 13:46",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 28,
   "events": [
     {
       "id": "591415",
@@ -353,24 +353,6 @@
       "fee": 1000
     },
     {
-      "id": "614391",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-09-13",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/614391/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
       "id": "616379",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-09-13",
@@ -389,6 +371,40 @@
       "fee": 1000
     },
     {
+      "id": "620312",
+      "title": "パウパー雷神前哨戦 晴れる屋パウパー杯[決勝SEあり]",
+      "date": "2026-09-13",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/620312/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "620314",
+      "title": "拾壱代目パウパー『雷神』決定戦",
+      "date": "2026-09-19",
+      "time": "13:30",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/620314/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
+      "fee": 2000
+    },
+    {
       "id": "618536",
       "title": "『マジック：ザ・ギャザリング | リアリティ・フラクチャー』1BOX争奪パウパー",
       "date": "2026-09-20",
@@ -402,6 +418,22 @@
       "shop": "京都",
       "shop_key": "kyoto",
       "shop_id": 29,
+      "fee": 2000
+    },
+    {
+      "id": "620318",
+      "title": "『リアリティ・フラクチャー』BOX引換券争奪パウパー",
+      "date": "2026-09-20",
+      "time": "13:30",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/620318/detail",
+      "shop": "宇都宮",
+      "shop_key": "utsunomiya",
+      "shop_id": 14,
       "fee": 2000
     },
     {
