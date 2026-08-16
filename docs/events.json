@@ -1,64 +1,10 @@
 {
-  "fetched_at": "2026-08-15 12:31",
+  "fetched_at": "2026-08-16 12:40",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 32,
+  "total": 29,
   "events": [
-    {
-      "id": "605787",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-08-15",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/605787/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "612873",
-      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-08-15",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/612873/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
-      "fee": 1000
-    },
-    {
-      "id": "609865",
-      "title": "豪華!!シングルカード山分けパウパー[じゃんけん大会開催]",
-      "date": "2026-08-15",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "じゃんけん大会開催"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/609865/detail",
-      "shop": "大須",
-      "shop_key": "osu",
-      "shop_id": 18,
-      "fee": 1000
-    },
     {
       "id": "609582",
       "title": "《勝利の楽士》2枚争奪パウパー",
