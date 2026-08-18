@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-17 12:42",
+  "fetched_at": "2026-08-18 12:37",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 27,
   "events": [
     {
       "id": "618520",
@@ -177,6 +177,22 @@
       "shop_key": "takasaki",
       "shop_id": 28,
       "fee": 2000
+    },
+    {
+      "id": "622181",
+      "title": "ポイント争奪 Pauper",
+      "date": "2026-09-05",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/622181/detail",
+      "shop": "三宮",
+      "shop_key": "sannomiya",
+      "shop_id": 19,
+      "fee": 1000
     },
     {
       "id": "621236",
