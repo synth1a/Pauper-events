@@ -221,12 +221,30 @@ URL:https://www.hareruyamtg.com/ja/events/619783/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-623327@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261010T130000
+DTEND;TZID=Asia/Tokyo:20261010T150000
+SUMMARY:第11回大宮パウパー”彩”強決定戦
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/623327/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-620378@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261011T120000
 DTEND;TZID=Asia/Tokyo:20261011T140000
 SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/620378/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-623385@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261012T130000
+DTEND;TZID=Asia/Tokyo:20261012T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:大宮
+URL:https://www.hareruyamtg.com/ja/events/623385/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
