@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20 12:39",
+  "fetched_at": "2026-08-21 12:43",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
@@ -211,6 +211,24 @@
       "fee": 1000
     },
     {
+      "id": "621167",
+      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/621167/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
+      "fee": 1000
+    },
+    {
       "id": "619782",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
       "date": "2026-09-06",
@@ -226,24 +244,6 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
-      "fee": 1000
-    },
-    {
-      "id": "621167",
-      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-09-12",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/621167/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
       "fee": 1000
     },
     {
