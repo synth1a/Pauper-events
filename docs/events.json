@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-21 12:43",
+  "fetched_at": "2026-08-22 12:35",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 29,
+  "total": 30,
   "events": [
     {
       "id": "618520",
@@ -365,6 +365,24 @@
       "shop_key": "tc_tokyo",
       "shop_id": 1,
       "fee": 1000
+    },
+    {
+      "id": "626509",
+      "title": "『リアリティ・フラクチャー』1BOX争奪パウパー[決勝SE有り]",
+      "date": "2026-09-22",
+      "time": "12:00",
+      "weekday": "火",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/626509/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
+      "fee": 1500
     },
     {
       "id": "621323",
