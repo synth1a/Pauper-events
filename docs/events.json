@@ -1,63 +1,10 @@
 {
-  "fetched_at": "2026-08-23 12:42",
+  "fetched_at": "2026-08-24 12:46",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 25,
   "events": [
-    {
-      "id": "608734",
-      "title": "《 真夜中の盗人、ビルボ》争奪パウパー",
-      "date": "2026-08-23",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/608734/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
-    },
-    {
-      "id": "612398",
-      "title": "『毘沙門天決定戦』パウパー[決勝SE有り][予約可]",
-      "date": "2026-08-23",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SE有り",
-        "予約可"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/612398/detail",
-      "shop": "水戸",
-      "shop_key": "mito",
-      "shop_id": 22,
-      "fee": 2000
-    },
-    {
-      "id": "618289",
-      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/618289/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
-      "fee": 1000
-    },
     {
       "id": "613738",
       "title": "パウパー神挑戦者決定戦トライアル",

@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-608734@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260823T120000
-DTEND;TZID=Asia/Tokyo:20260823T140000
-SUMMARY:《 真夜中の盗人、ビルボ》争奪パウパー
-LOCATION:郡山
-URL:https://www.hareruyamtg.com/ja/events/608734/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-612398@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260823T120000
-DTEND;TZID=Asia/Tokyo:20260823T140000
-SUMMARY:『毘沙門天決定戦』パウパー[決勝SE有り][予約可]
-LOCATION:水戸
-URL:https://www.hareruyamtg.com/ja/events/612398/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り\, 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-618289@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260823T130000
-DTEND;TZID=Asia/Tokyo:20260823T150000
-SUMMARY:10\,000ポイント争奪パウパー[決勝SEあり]
-LOCATION:秋葉原
-URL:https://www.hareruyamtg.com/ja/events/618289/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-613738@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260829T120000
 DTEND;TZID=Asia/Tokyo:20260829T140000
