@@ -1,44 +1,10 @@
 {
-  "fetched_at": "2026-08-29 18:35",
+  "fetched_at": "2026-08-30 17:45",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 24,
   "events": [
-    {
-      "id": "613738",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-08-29",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/613738/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
-      "fee": 1000
-    },
-    {
-      "id": "609866",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-08-29",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/609866/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "605788",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
