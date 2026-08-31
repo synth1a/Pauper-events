@@ -5,37 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-605788@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260830T120000
-DTEND;TZID=Asia/Tokyo:20260830T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/605788/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-605569@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260830T140000
-DTEND;TZID=Asia/Tokyo:20260830T160000
-SUMMARY:《意志の力》争奪パウパー
-LOCATION:TC大阪
-URL:https://www.hareruyamtg.com/ja/events/605569/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-609978@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260830T140000
-DTEND;TZID=Asia/Tokyo:20260830T160000
-SUMMARY:20\,000Hareruya Point争奪パウパー
-LOCATION:高崎
-URL:https://www.hareruyamtg.com/ja/events/609978/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-622181@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260905T130000
 DTEND;TZID=Asia/Tokyo:20260905T150000
-SUMMARY:ポイント争奪 Pauper
+SUMMARY:8000ポイント争奪晴れサンパウパー杯
 LOCATION:三宮
 URL:https://www.hareruyamtg.com/ja/events/622181/detail
 DESCRIPTION:フォーマット: pauper
