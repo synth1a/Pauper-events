@@ -1,0 +1,16 @@
+name: Debug Fetch (temporary)
+on:
+  workflow_dispatch:
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scratch/debug_tc_tokyo.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: tc_tokyo_html
+          path: scratch/out/
