@@ -1,6 +1,7 @@
 name: Debug Fetch (temporary)
 on:
-  workflow_dispatch:
+  push:
+    branches: ['claude/pauperevent-tc-tokyo-trial-missing-37p1j1']
 jobs:
   debug:
     runs-on: ubuntu-latest
