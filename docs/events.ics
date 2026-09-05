@@ -14,6 +14,15 @@ URL:https://www.hareruyamtg.com/ja/events/622181/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-632474@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20260906T120000
+DTEND;TZID=Asia/Tokyo:20260906T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/632474/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-621236@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260906T120000
 DTEND;TZID=Asia/Tokyo:20260906T140000

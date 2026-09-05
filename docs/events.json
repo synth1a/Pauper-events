@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-04 16:34",
+  "fetched_at": "2026-09-05 16:14",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 21,
+  "total": 22,
   "events": [
     {
       "id": "622181",
@@ -19,6 +19,24 @@
       "shop": "三宮",
       "shop_key": "sannomiya",
       "shop_id": 19,
+      "fee": 1000
+    },
+    {
+      "id": "632474",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-09-06",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/632474/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
       "fee": 1000
     },
     {
