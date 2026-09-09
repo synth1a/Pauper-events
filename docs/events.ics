@@ -113,6 +113,15 @@ URL:https://www.hareruyamtg.com/ja/events/619783/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-633456@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261003T130000
+DTEND;TZID=Asia/Tokyo:20261003T150000
+SUMMARY:『リアリティ・フラクチャー』BOX山分けパウパー！
+LOCATION:大須
+URL:https://www.hareruyamtg.com/ja/events/633456/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-623327@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261010T130000
 DTEND;TZID=Asia/Tokyo:20261010T150000

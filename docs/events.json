@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-08 16:36",
+  "fetched_at": "2026-09-09 16:42",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 17,
+  "total": 18,
   "events": [
     {
       "id": "616379",
@@ -209,6 +209,22 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "633456",
+      "title": "『リアリティ・フラクチャー』BOX山分けパウパー！",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/633456/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
       "fee": 1000
     },
     {
