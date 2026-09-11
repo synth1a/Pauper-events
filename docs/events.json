@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-10 16:41",
+  "fetched_at": "2026-09-11 16:37",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 18,
+  "total": 19,
   "events": [
     {
       "id": "616379",
@@ -209,6 +209,24 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "634485",
+      "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
+      "date": "2026-10-03",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/634485/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
       "fee": 1000
     },
     {
