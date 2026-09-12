@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-11 16:37",
+  "fetched_at": "2026-09-12 16:29",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 19,
+  "total": 20,
   "events": [
     {
       "id": "616379",
@@ -243,6 +243,24 @@
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
+      "fee": 1000
+    },
+    {
+      "id": "635191",
+      "title": "シングルカード争奪パウパー[決勝SE]",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/635191/detail",
+      "shop": "新潟",
+      "shop_key": "niigata",
+      "shop_id": 24,
       "fee": 1000
     },
     {
