@@ -1,46 +1,10 @@
 {
-  "fetched_at": "2026-09-13 16:50",
+  "fetched_at": "2026-09-14 17:22",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 20,
+  "total": 18,
   "events": [
-    {
-      "id": "616379",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/616379/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 1000
-    },
-    {
-      "id": "620312",
-      "title": "パウパー雷神前哨戦 晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-09-13",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/620312/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "620314",
       "title": "拾壱代目パウパー『雷神』決定戦",
