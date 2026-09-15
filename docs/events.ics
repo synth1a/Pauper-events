@@ -166,4 +166,13 @@ LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/620380/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-635553@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261025T130000
+DTEND;TZID=Asia/Tokyo:20261025T150000
+SUMMARY:ポイント争奪パウパー
+LOCATION:三宮
+URL:https://www.hareruyamtg.com/ja/events/635553/detail
+DESCRIPTION:フォーマット: modern\, pauper
+END:VEVENT
 END:VCALENDAR

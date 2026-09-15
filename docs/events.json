@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-14 17:22",
+  "fetched_at": "2026-09-15 17:13",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 18,
+  "total": 19,
   "events": [
     {
       "id": "620314",
@@ -313,6 +313,23 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "635553",
+      "title": "ポイント争奪パウパー",
+      "date": "2026-10-25",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "modern",
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/635553/detail",
+      "shop": "三宮",
+      "shop_key": "sannomiya",
+      "shop_id": 19,
       "fee": 1000
     }
   ]
