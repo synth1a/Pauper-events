@@ -113,6 +113,15 @@ URL:https://www.hareruyamtg.com/ja/events/633456/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-636622@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261004T130000
+DTEND;TZID=Asia/Tokyo:20261004T150000
+SUMMARY:パウパー神挑戦者決定戦トライアル
+LOCATION:吉祥寺
+URL:https://www.hareruyamtg.com/ja/events/636622/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-635191@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261004T130000
 DTEND;TZID=Asia/Tokyo:20261004T150000
