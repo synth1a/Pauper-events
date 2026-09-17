@@ -167,6 +167,15 @@ URL:https://www.hareruyamtg.com/ja/events/620379/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-637303@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261017T120000
+DTEND;TZID=Asia/Tokyo:20261017T140000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/637303/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-620380@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261024T120000
 DTEND;TZID=Asia/Tokyo:20261024T140000
@@ -183,5 +192,14 @@ SUMMARY:ポイント争奪パウパー
 LOCATION:三宮
 URL:https://www.hareruyamtg.com/ja/events/635553/detail
 DESCRIPTION:フォーマット: modern\, pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-637304@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261101T120000
+DTEND;TZID=Asia/Tokyo:20261101T140000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/637304/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 END:VCALENDAR
