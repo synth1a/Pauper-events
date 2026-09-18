@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-17 17:13",
+  "fetched_at": "2026-09-18 16:47",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 22,
+  "total": 23,
   "events": [
     {
       "id": "620314",
@@ -350,13 +350,28 @@
       "fee": 1000
     },
     {
+      "id": "637929",
+      "title": "静岡店パウパー番長決定戦",
+      "date": "2026-10-25",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/637929/detail",
+      "shop": "静岡",
+      "shop_key": "shizuoka",
+      "shop_id": 7,
+      "fee": 1000
+    },
+    {
       "id": "635553",
       "title": "ポイント争奪パウパー",
       "date": "2026-10-25",
       "time": "13:00",
       "weekday": "日",
       "formats": [
-        "modern",
         "pauper"
       ],
       "tags": [],

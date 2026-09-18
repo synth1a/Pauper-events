@@ -185,13 +185,22 @@ URL:https://www.hareruyamtg.com/ja/events/620380/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-637929@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261025T120000
+DTEND;TZID=Asia/Tokyo:20261025T140000
+SUMMARY:静岡店パウパー番長決定戦
+LOCATION:静岡
+URL:https://www.hareruyamtg.com/ja/events/637929/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-635553@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261025T130000
 DTEND;TZID=Asia/Tokyo:20261025T150000
 SUMMARY:ポイント争奪パウパー
 LOCATION:三宮
 URL:https://www.hareruyamtg.com/ja/events/635553/detail
-DESCRIPTION:フォーマット: modern\, pauper
+DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-637304@hareruyamtg.com
