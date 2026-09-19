@@ -176,6 +176,15 @@ URL:https://www.hareruyamtg.com/ja/events/637303/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-638631@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261017T120000
+DTEND;TZID=Asia/Tokyo:20261017T140000
+SUMMARY:シングルカード争奪パウパー
+LOCATION:京都
+URL:https://www.hareruyamtg.com/ja/events/638631/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-620380@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261024T120000
 DTEND;TZID=Asia/Tokyo:20261024T140000

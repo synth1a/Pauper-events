@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-18 16:47",
+  "fetched_at": "2026-09-19 16:40",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 23,
+  "total": 24,
   "events": [
     {
       "id": "620314",
@@ -329,6 +329,22 @@
       "shop": "宇都宮",
       "shop_key": "utsunomiya",
       "shop_id": 14,
+      "fee": 1000
+    },
+    {
+      "id": "638631",
+      "title": "シングルカード争奪パウパー",
+      "date": "2026-10-17",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/638631/detail",
+      "shop": "京都",
+      "shop_key": "kyoto",
+      "shop_id": 29,
       "fee": 1000
     },
     {
