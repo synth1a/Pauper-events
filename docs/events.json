@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-09-19 16:40",
+  "fetched_at": "2026-09-20 17:07",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 24,
+  "total": 23,
   "events": [
-    {
-      "id": "620314",
-      "title": "拾壱代目パウパー『雷神』決定戦",
-      "date": "2026-09-19",
-      "time": "13:30",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/620314/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 2000
-    },
     {
       "id": "618536",
       "title": "『マジック：ザ・ギャザリング | リアリティ・フラクチャー』1BOX争奪パウパー",
