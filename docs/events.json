@@ -1,60 +1,10 @@
 {
-  "fetched_at": "2026-09-20 17:07",
+  "fetched_at": "2026-09-21 17:24",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 23,
+  "total": 20,
   "events": [
-    {
-      "id": "618536",
-      "title": "『マジック：ザ・ギャザリング | リアリティ・フラクチャー』1BOX争奪パウパー",
-      "date": "2026-09-20",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/618536/detail",
-      "shop": "京都",
-      "shop_key": "kyoto",
-      "shop_id": 29,
-      "fee": 2000
-    },
-    {
-      "id": "621207",
-      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-09-20",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/621207/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
-      "fee": 1000
-    },
-    {
-      "id": "620318",
-      "title": "『リアリティ・フラクチャー』BOX引換券争奪パウパー",
-      "date": "2026-09-20",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/620318/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 2000
-    },
     {
       "id": "614444",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
