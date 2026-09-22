@@ -5,15 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-614444@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20260921T120000
-DTEND;TZID=Asia/Tokyo:20260921T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/614444/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-628731@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20260922T120000
 DTEND;TZID=Asia/Tokyo:20260922T140000

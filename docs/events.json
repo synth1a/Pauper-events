@@ -1,28 +1,10 @@
 {
-  "fetched_at": "2026-09-21 17:24",
+  "fetched_at": "2026-09-22 17:05",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 20,
+  "total": 19,
   "events": [
-    {
-      "id": "614444",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-09-21",
-      "time": "12:00",
-      "weekday": "月",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/614444/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
     {
       "id": "628731",
       "title": "《ウルザの物語》争奪パウパー",
