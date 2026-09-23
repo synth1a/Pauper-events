@@ -1,44 +1,10 @@
 {
-  "fetched_at": "2026-09-22 17:05",
+  "fetched_at": "2026-09-23 17:08",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 19,
+  "total": 18,
   "events": [
-    {
-      "id": "628731",
-      "title": "《ウルザの物語》争奪パウパー",
-      "date": "2026-09-22",
-      "time": "12:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/628731/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
-    },
-    {
-      "id": "626509",
-      "title": "『リアリティ・フラクチャー』1BOX争奪パウパー[決勝SE有り]",
-      "date": "2026-09-22",
-      "time": "12:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SE有り"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/626509/detail",
-      "shop": "水戸",
-      "shop_key": "mito",
-      "shop_id": 22,
-      "fee": 1500
-    },
     {
       "id": "621323",
       "title": "10,000ポイント争奪パウパー[決勝SEあり]",
@@ -191,6 +157,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "641443",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-10-11",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/641443/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
       "fee": 1000
     },
     {
