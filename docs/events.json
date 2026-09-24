@@ -1,28 +1,10 @@
 {
-  "fetched_at": "2026-09-23 17:08",
+  "fetched_at": "2026-09-24 16:59",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 18,
+  "total": 17,
   "events": [
-    {
-      "id": "621323",
-      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "weekday": "水",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/621323/detail",
-      "shop": "秋葉原",
-      "shop_key": "akihabara",
-      "shop_id": 8,
-      "fee": 1000
-    },
     {
       "id": "617982",
       "title": "関帝前哨戦パウパー",
