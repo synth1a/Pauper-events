@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-25 17:22",
+  "fetched_at": "2026-09-26 17:09",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 18,
+  "total": 20,
   "events": [
     {
       "id": "617982",
@@ -293,6 +293,38 @@
       "shop": "三宮",
       "shop_key": "sannomiya",
       "shop_id": 19,
+      "fee": 1000
+    },
+    {
+      "id": "642365",
+      "title": "高額ポイント争奪パウパー杯",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/642365/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 1500
+    },
+    {
+      "id": "642349",
+      "title": "《？？？》争奪パウパー",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/642349/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
       "fee": 1000
     },
     {

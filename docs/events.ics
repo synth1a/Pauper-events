@@ -158,6 +158,24 @@ URL:https://www.hareruyamtg.com/ja/events/635553/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-642365@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261031T120000
+DTEND;TZID=Asia/Tokyo:20261031T140000
+SUMMARY:高額ポイント争奪パウパー杯
+LOCATION:横浜
+URL:https://www.hareruyamtg.com/ja/events/642365/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-642349@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261031T130000
+DTEND;TZID=Asia/Tokyo:20261031T150000
+SUMMARY:《？？？》争奪パウパー
+LOCATION:郡山
+URL:https://www.hareruyamtg.com/ja/events/642349/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-637304@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261101T120000
 DTEND;TZID=Asia/Tokyo:20261101T140000
