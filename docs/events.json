@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-09-26 17:09",
+  "fetched_at": "2026-09-27 17:45",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
   "total": 20,
   "events": [
-    {
-      "id": "617982",
-      "title": "関帝前哨戦パウパー",
-      "date": "2026-09-26",
-      "time": "14:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/617982/detail",
-      "shop": "TC大阪",
-      "shop_key": "tc_osaka",
-      "shop_id": 5,
-      "fee": 1000
-    },
     {
       "id": "619783",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
@@ -246,6 +230,22 @@
       "fee": 1000
     },
     {
+      "id": "642665",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-10-18",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/642665/detail",
+      "shop": "渋谷",
+      "shop_key": "shibuya",
+      "shop_id": 27,
+      "fee": 1000
+    },
+    {
       "id": "620380",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-10-24",
@@ -313,7 +313,7 @@
     },
     {
       "id": "642349",
-      "title": "《？？？》争奪パウパー",
+      "title": "争奪パウパー",
       "date": "2026-10-31",
       "time": "13:00",
       "weekday": "土",
