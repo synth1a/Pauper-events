@@ -1,28 +1,10 @@
 {
-  "fetched_at": "2026-09-27 17:45",
+  "fetched_at": "2026-09-28 18:10",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 20,
+  "total": 19,
   "events": [
-    {
-      "id": "619783",
-      "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
-      "date": "2026-09-27",
-      "time": "13:30",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "決勝SEあり"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/619783/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 1000
-    },
     {
       "id": "634485",
       "title": "10,000ポイント争奪！晴れ水戸パウパー杯[決勝SE有り]",
@@ -296,6 +278,22 @@
       "fee": 1000
     },
     {
+      "id": "642349",
+      "title": "争奪パウパー",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/642349/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 1000
+    },
+    {
       "id": "642365",
       "title": "高額ポイント争奪パウパー杯",
       "date": "2026-10-31",
@@ -310,22 +308,6 @@
       "shop_key": "yokohama",
       "shop_id": 10,
       "fee": 1500
-    },
-    {
-      "id": "642349",
-      "title": "争奪パウパー",
-      "date": "2026-10-31",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/642349/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
     },
     {
       "id": "637304",
