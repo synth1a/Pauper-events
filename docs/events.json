@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-29 18:19",
+  "fetched_at": "2026-09-30 18:10",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 20,
+  "total": 22,
   "events": [
     {
       "id": "634485",
@@ -328,6 +328,22 @@
       "fee": 1000
     },
     {
+      "id": "644149",
+      "title": "『マジック・ザ・ギャザリング | スター・トレック』プレイ・ブースターBOX 争奪パウパー",
+      "date": "2026-11-03",
+      "time": "11:00",
+      "weekday": "火",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/644149/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
+      "fee": 2000
+    },
+    {
       "id": "643699",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
       "date": "2026-11-08",
@@ -343,6 +359,22 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "644198",
+      "title": "関帝前哨戦パウパー",
+      "date": "2026-11-28",
+      "time": "14:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/644198/detail",
+      "shop": "TC大阪",
+      "shop_key": "tc_osaka",
+      "shop_id": 5,
       "fee": 1000
     }
   ]

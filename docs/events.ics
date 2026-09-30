@@ -176,6 +176,15 @@ URL:https://www.hareruyamtg.com/ja/events/637304/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-644149@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261103T110000
+DTEND;TZID=Asia/Tokyo:20261103T130000
+SUMMARY:『マジック・ザ・ギャザリング | スター・トレック』プレイ・ブースターBOX 争奪パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/644149/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-643699@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261108T130000
 DTEND;TZID=Asia/Tokyo:20261108T150000
@@ -183,5 +192,14 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:大宮
 URL:https://www.hareruyamtg.com/ja/events/643699/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-644198@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261128T140000
+DTEND;TZID=Asia/Tokyo:20261128T160000
+SUMMARY:関帝前哨戦パウパー
+LOCATION:TC大阪
+URL:https://www.hareruyamtg.com/ja/events/644198/detail
+DESCRIPTION:フォーマット: pauper
 END:VEVENT
 END:VCALENDAR
