@@ -185,12 +185,48 @@ URL:https://www.hareruyamtg.com/ja/events/644149/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-645663@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261103T120000
+DTEND;TZID=Asia/Tokyo:20261103T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/645663/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-643699@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261108T130000
 DTEND;TZID=Asia/Tokyo:20261108T150000
 SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:大宮
 URL:https://www.hareruyamtg.com/ja/events/643699/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-645664@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261114T120000
+DTEND;TZID=Asia/Tokyo:20261114T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/645664/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-645665@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261115T120000
+DTEND;TZID=Asia/Tokyo:20261115T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/645665/detail
+DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-645666@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261122T120000
+DTEND;TZID=Asia/Tokyo:20261122T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
+LOCATION:TC東京
+URL:https://www.hareruyamtg.com/ja/events/645666/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
