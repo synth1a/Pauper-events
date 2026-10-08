@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-07 18:34",
+  "fetched_at": "2026-10-08 18:45",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 22,
+  "total": 23,
   "events": [
     {
       "id": "623327",
@@ -363,6 +363,24 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "646753",
+      "title": "10,000ポイント争奪パウパー[決勝SEあり]",
+      "date": "2026-11-22",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SEあり"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/646753/detail",
+      "shop": "秋葉原",
+      "shop_key": "akihabara",
+      "shop_id": 8,
       "fee": 1000
     },
     {
