@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-08 18:45",
+  "fetched_at": "2026-10-09 18:50",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 23,
+  "total": 24,
   "events": [
     {
       "id": "623327",
@@ -181,7 +181,7 @@
       "id": "637929",
       "title": "静岡店パウパー番長決定戦",
       "date": "2026-10-25",
-      "time": "12:00",
+      "time": "13:00",
       "weekday": "日",
       "formats": [
         "pauper"
@@ -345,6 +345,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "647594",
+      "title": "ポイント争奪パウパー",
+      "date": "2026-11-21",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/647594/detail",
+      "shop": "三宮",
+      "shop_key": "sannomiya",
+      "shop_id": 19,
       "fee": 1000
     },
     {
