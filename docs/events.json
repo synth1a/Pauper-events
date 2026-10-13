@@ -1,28 +1,10 @@
 {
-  "fetched_at": "2026-10-12 19:01",
+  "fetched_at": "2026-10-13 18:54",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 24,
   "events": [
-    {
-      "id": "623385",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-10-12",
-      "time": "13:00",
-      "weekday": "月",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/623385/detail",
-      "shop": "大宮",
-      "shop_key": "omiya",
-      "shop_id": 13,
-      "fee": 1000
-    },
     {
       "id": "620379",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
@@ -61,7 +43,7 @@
     },
     {
       "id": "638631",
-      "title": "シングルカード争奪パウパー",
+      "title": "《救済者、セフィロス》//《偉大なる統一者、アトラクサ》争奪パウパー",
       "date": "2026-10-17",
       "time": "12:00",
       "weekday": "土",
