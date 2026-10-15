@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-14 17:14",
+  "fetched_at": "2026-10-15 16:52",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 28,
+  "total": 29,
   "events": [
     {
       "id": "620379",
@@ -466,6 +466,22 @@
       "shop_key": "yokohama",
       "shop_id": 10,
       "fee": 1500
+    },
+    {
+      "id": "649037",
+      "title": "パウパー東海王決定戦トライアル",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/649037/detail",
+      "shop": "大須",
+      "shop_key": "osu",
+      "shop_id": 18,
+      "fee": 1000
     },
     {
       "id": "644198",

@@ -248,6 +248,15 @@ URL:https://www.hareruyamtg.com/ja/events/647930/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-649037@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261128T120000
+DTEND;TZID=Asia/Tokyo:20261128T140000
+SUMMARY:パウパー東海王決定戦トライアル
+LOCATION:大須
+URL:https://www.hareruyamtg.com/ja/events/649037/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-644198@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261128T140000
 DTEND;TZID=Asia/Tokyo:20261128T160000
