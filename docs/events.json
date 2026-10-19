@@ -1,26 +1,10 @@
 {
-  "fetched_at": "2026-10-18 16:36",
+  "fetched_at": "2026-10-19 17:18",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 25,
   "events": [
-    {
-      "id": "642665",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-10-18",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/642665/detail",
-      "shop": "渋谷",
-      "shop_key": "shibuya",
-      "shop_id": 27,
-      "fee": 1000
-    },
     {
       "id": "620380",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
