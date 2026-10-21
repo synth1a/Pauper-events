@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-20 17:03",
+  "fetched_at": "2026-10-21 17:09",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 26,
   "events": [
     {
       "id": "620380",
@@ -41,7 +41,7 @@
     },
     {
       "id": "635553",
-      "title": "ポイント争奪パウパー",
+      "title": "8,000ポイント争奪パウパー杯",
       "date": "2026-10-25",
       "time": "13:00",
       "weekday": "日",
@@ -429,6 +429,24 @@
       "shop": "TC大阪",
       "shop_key": "tc_osaka",
       "shop_id": 5,
+      "fee": 1000
+    },
+    {
+      "id": "654531",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-12-19",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/654531/detail",
+      "shop": "大宮",
+      "shop_key": "omiya",
+      "shop_id": 13,
       "fee": 1000
     }
   ]
