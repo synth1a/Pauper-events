@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-637929@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20261025T130000
-DTEND;TZID=Asia/Tokyo:20261025T150000
-SUMMARY:静岡店パウパー番長決定戦
-LOCATION:静岡
-URL:https://www.hareruyamtg.com/ja/events/637929/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-635553@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20261025T130000
-DTEND;TZID=Asia/Tokyo:20261025T150000
-SUMMARY:8\,000ポイント争奪パウパー杯
-LOCATION:三宮
-URL:https://www.hareruyamtg.com/ja/events/635553/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-642349@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261031T120000
 DTEND;TZID=Asia/Tokyo:20261031T140000

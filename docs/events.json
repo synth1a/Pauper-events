@@ -1,42 +1,10 @@
 {
-  "fetched_at": "2026-10-25 16:57",
+  "fetched_at": "2026-10-26 17:19",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 24,
   "events": [
-    {
-      "id": "637929",
-      "title": "静岡店パウパー番長決定戦",
-      "date": "2026-10-25",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/637929/detail",
-      "shop": "静岡",
-      "shop_key": "shizuoka",
-      "shop_id": 7,
-      "fee": 1000
-    },
-    {
-      "id": "635553",
-      "title": "8,000ポイント争奪パウパー杯",
-      "date": "2026-10-25",
-      "time": "13:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/635553/detail",
-      "shop": "三宮",
-      "shop_key": "sannomiya",
-      "shop_id": 19,
-      "fee": 1000
-    },
     {
       "id": "642349",
       "title": "《水蓮の花びら》争奪パウパー",
