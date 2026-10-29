@@ -203,6 +203,15 @@ URL:https://www.hareruyamtg.com/ja/events/644198/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-658692@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261213T120000
+DTEND;TZID=Asia/Tokyo:20261213T140000
+SUMMARY:パウパー虎王決定戦
+LOCATION:郡山
+URL:https://www.hareruyamtg.com/ja/events/658692/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-654531@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261219T130000
 DTEND;TZID=Asia/Tokyo:20261219T150000

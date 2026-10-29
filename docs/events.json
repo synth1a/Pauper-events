@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-28 18:09",
+  "fetched_at": "2026-10-29 18:09",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 24,
+  "total": 25,
   "events": [
     {
       "id": "642349",
@@ -380,6 +380,22 @@
       "shop_key": "tc_osaka",
       "shop_id": 5,
       "fee": 1000
+    },
+    {
+      "id": "658692",
+      "title": "パウパー虎王決定戦",
+      "date": "2026-12-13",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/658692/detail",
+      "shop": "郡山",
+      "shop_key": "koriyama",
+      "shop_id": 16,
+      "fee": 2000
     },
     {
       "id": "654531",
