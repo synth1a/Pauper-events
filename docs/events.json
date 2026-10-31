@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-30 18:20",
+  "fetched_at": "2026-10-31 18:07",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 26,
   "events": [
     {
       "id": "642349",
@@ -225,6 +225,22 @@
       "shop": "TC東京",
       "shop_key": "tc_tokyo",
       "shop_id": 1,
+      "fee": 1000
+    },
+    {
+      "id": "659219",
+      "title": "【東海王前哨戦】晴れる屋パウパー杯DX",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/659219/detail",
+      "shop": "名古屋",
+      "shop_key": "nagoya",
+      "shop_id": 6,
       "fee": 1000
     },
     {

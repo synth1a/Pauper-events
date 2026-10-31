@@ -122,6 +122,15 @@ URL:https://www.hareruyamtg.com/ja/events/645665/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-659219@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261121T110000
+DTEND;TZID=Asia/Tokyo:20261121T130000
+SUMMARY:【東海王前哨戦】晴れる屋パウパー杯DX
+LOCATION:名古屋
+URL:https://www.hareruyamtg.com/ja/events/659219/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-647594@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261121T130000
 DTEND;TZID=Asia/Tokyo:20261121T150000
