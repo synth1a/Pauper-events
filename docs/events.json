@@ -1,42 +1,10 @@
 {
-  "fetched_at": "2026-10-31 18:07",
+  "fetched_at": "2026-11-01 18:55",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
   "total": 26,
   "events": [
-    {
-      "id": "642349",
-      "title": "《水蓮の花びら》争奪パウパー",
-      "date": "2026-10-31",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/642349/detail",
-      "shop": "郡山",
-      "shop_key": "koriyama",
-      "shop_id": 16,
-      "fee": 1000
-    },
-    {
-      "id": "642365",
-      "title": "高額ポイント争奪パウパー杯",
-      "date": "2026-10-31",
-      "time": "12:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/642365/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
-      "fee": 1500
-    },
     {
       "id": "637304",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
@@ -398,6 +366,25 @@
       "fee": 1000
     },
     {
+      "id": "659492",
+      "title": "『毘沙門天決定戦』パウパー[決勝SE有り][予約可]",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE有り",
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/659492/detail",
+      "shop": "水戸",
+      "shop_key": "mito",
+      "shop_id": 22,
+      "fee": 2000
+    },
+    {
       "id": "658692",
       "title": "パウパー虎王決定戦",
       "date": "2026-12-13",
@@ -430,6 +417,24 @@
       "shop_key": "omiya",
       "shop_id": 13,
       "fee": 1000
+    },
+    {
+      "id": "659528",
+      "title": "第15期パウパー神決定戦[予約可]",
+      "date": "2026-12-27",
+      "time": "10:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "予約可"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/659528/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 2000
     },
     {
       "id": "657385",
