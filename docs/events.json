@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-02 19:20",
+  "fetched_at": "2026-11-03 19:19",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 25,
+  "total": 26,
   "events": [
     {
       "id": "644149",
@@ -381,6 +381,22 @@
       "shop_key": "koriyama",
       "shop_id": 16,
       "fee": 2000
+    },
+    {
+      "id": "660141",
+      "title": "10,000ポイント争奪パウパー杯",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/660141/detail",
+      "shop": "吉祥寺",
+      "shop_key": "kichijoji",
+      "shop_id": 17,
+      "fee": 1000
     },
     {
       "id": "654531",
