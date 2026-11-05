@@ -1,76 +1,10 @@
 {
-  "fetched_at": "2026-11-03 19:19",
+  "fetched_at": "2026-11-05 19:06",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 22,
   "events": [
-    {
-      "id": "644149",
-      "title": "『マジック・ザ・ギャザリング | スター・トレック』プレイ・ブースターBOX 争奪パウパー",
-      "date": "2026-11-03",
-      "time": "11:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/644149/detail",
-      "shop": "TC大阪",
-      "shop_key": "tc_osaka",
-      "shop_id": 5,
-      "fee": 2000
-    },
-    {
-      "id": "645663",
-      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
-      "date": "2026-11-03",
-      "time": "12:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [
-        "スイス+決勝SE"
-      ],
-      "url": "https://www.hareruyamtg.com/ja/events/645663/detail",
-      "shop": "TC東京",
-      "shop_key": "tc_tokyo",
-      "shop_id": 1,
-      "fee": 1000
-    },
-    {
-      "id": "648823",
-      "title": "『マジック・ザ・ギャザリング | スター・トレック』BOX引換券争奪パウパー",
-      "date": "2026-11-03",
-      "time": "12:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/648823/detail",
-      "shop": "宇都宮",
-      "shop_key": "utsunomiya",
-      "shop_id": 14,
-      "fee": 2000
-    },
-    {
-      "id": "647877",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-11-03",
-      "time": "12:00",
-      "weekday": "火",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/647877/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
-      "fee": 1000
-    },
     {
       "id": "648845",
       "title": "【8,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]",
