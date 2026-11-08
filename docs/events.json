@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-07 18:27",
+  "fetched_at": "2026-11-08 18:43",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 22,
+  "total": 24,
   "events": [
     {
       "id": "648845",
@@ -301,6 +301,24 @@
       "fee": 2000
     },
     {
+      "id": "662069",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-12-12",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/662069/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
+      "fee": 1000
+    },
+    {
       "id": "658692",
       "title": "パウパー虎王決定戦",
       "date": "2026-12-13",
@@ -348,6 +366,24 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "662070",
+      "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
+      "date": "2026-12-26",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "スイス+決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/662070/detail",
+      "shop": "TC東京",
+      "shop_key": "tc_tokyo",
+      "shop_id": 1,
       "fee": 1000
     },
     {
