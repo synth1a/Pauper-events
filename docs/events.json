@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-11 19:05",
+  "fetched_at": "2026-11-12 19:29",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 26,
+  "total": 27,
   "events": [
     {
       "id": "645664",
@@ -364,6 +364,22 @@
       "shop": "大宮",
       "shop_key": "omiya",
       "shop_id": 13,
+      "fee": 1000
+    },
+    {
+      "id": "665575",
+      "title": "争奪パウパー",
+      "date": "2026-12-20",
+      "time": "12:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/665575/detail",
+      "shop": "京都",
+      "shop_key": "kyoto",
+      "shop_id": 29,
       "fee": 1000
     },
     {
