@@ -149,12 +149,30 @@ URL:https://www.hareruyamtg.com/ja/events/659492/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE有り\, 予約可
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-666392@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261205T130000
+DTEND;TZID=Asia/Tokyo:20261205T150000
+SUMMARY:シングルカード争奪パウパー[決勝SE]
+LOCATION:新潟
+URL:https://www.hareruyamtg.com/ja/events/666392/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SE
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-662605@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261205T150000
 DTEND;TZID=Asia/Tokyo:20261205T170000
 SUMMARY:豪華!!シングルカード争奪パウパー
 LOCATION:大須
 URL:https://www.hareruyamtg.com/ja/events/662605/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-666235@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261206T130000
+DTEND;TZID=Asia/Tokyo:20261206T150000
+SUMMARY:ポイント争奪パウパー
+LOCATION:三宮
+URL:https://www.hareruyamtg.com/ja/events/666235/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT

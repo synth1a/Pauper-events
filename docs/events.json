@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-12 19:29",
+  "fetched_at": "2026-11-13 19:22",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 27,
+  "total": 29,
   "events": [
     {
       "id": "645664",
@@ -283,6 +283,24 @@
       "fee": 2000
     },
     {
+      "id": "666392",
+      "title": "シングルカード争奪パウパー[決勝SE]",
+      "date": "2026-12-05",
+      "time": "13:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [
+        "決勝SE"
+      ],
+      "url": "https://www.hareruyamtg.com/ja/events/666392/detail",
+      "shop": "新潟",
+      "shop_key": "niigata",
+      "shop_id": 24,
+      "fee": 1000
+    },
+    {
       "id": "662605",
       "title": "豪華!!シングルカード争奪パウパー",
       "date": "2026-12-05",
@@ -296,6 +314,22 @@
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
+      "fee": 1000
+    },
+    {
+      "id": "666235",
+      "title": "ポイント争奪パウパー",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "weekday": "日",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/666235/detail",
+      "shop": "三宮",
+      "shop_key": "sannomiya",
+      "shop_id": 19,
       "fee": 1000
     },
     {
