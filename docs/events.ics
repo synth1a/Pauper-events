@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:晴れる屋イベント
 BEGIN:VEVENT
-UID:hareruya-645664@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20261114T120000
-DTEND;TZID=Asia/Tokyo:20261114T140000
-SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
-LOCATION:TC東京
-URL:https://www.hareruyamtg.com/ja/events/645664/detail
-DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-647886@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20261114T120000
-DTEND;TZID=Asia/Tokyo:20261114T140000
-SUMMARY:第18回パウパー提督決定戦[予約可]
-LOCATION:横浜
-URL:https://www.hareruyamtg.com/ja/events/647886/detail
-DESCRIPTION:フォーマット: pauper\nタグ: 予約可
-END:VEVENT
-BEGIN:VEVENT
-UID:hareruya-647727@hareruyamtg.com
-DTSTART;TZID=Asia/Tokyo:20261114T120000
-DTEND;TZID=Asia/Tokyo:20261114T140000
-SUMMARY:『マジック：ザ・ギャザリング | スター・トレック』BOX争奪パウパー
-LOCATION:京都
-URL:https://www.hareruyamtg.com/ja/events/647727/detail
-DESCRIPTION:フォーマット: pauper
-END:VEVENT
-BEGIN:VEVENT
 UID:hareruya-645665@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261115T120000
 DTEND;TZID=Asia/Tokyo:20261115T140000
@@ -107,7 +80,7 @@ BEGIN:VEVENT
 UID:hareruya-647930@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261128T120000
 DTEND;TZID=Asia/Tokyo:20261128T140000
-SUMMARY:高額ポイント争奪パウパー杯
+SUMMARY:12\,000ポイント争奪パウパー杯
 LOCATION:横浜
 URL:https://www.hareruyamtg.com/ja/events/647930/detail
 DESCRIPTION:フォーマット: pauper
@@ -140,6 +113,15 @@ URL:https://www.hareruyamtg.com/ja/events/662563/detail
 DESCRIPTION:フォーマット: pauper\nタグ: 予約可
 END:VEVENT
 BEGIN:VEVENT
+UID:hareruya-667806@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261205T120000
+DTEND;TZID=Asia/Tokyo:20261205T140000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/667806/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
+END:VEVENT
+BEGIN:VEVENT
 UID:hareruya-659492@hareruyamtg.com
 DTSTART;TZID=Asia/Tokyo:20261205T120000
 DTEND;TZID=Asia/Tokyo:20261205T140000
@@ -164,6 +146,15 @@ DTEND;TZID=Asia/Tokyo:20261205T170000
 SUMMARY:豪華!!シングルカード争奪パウパー
 LOCATION:大須
 URL:https://www.hareruyamtg.com/ja/events/662605/detail
+DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-668245@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261206T120000
+DTEND;TZID=Asia/Tokyo:20261206T140000
+SUMMARY:パウパー神挑戦者決定戦トライアル
+LOCATION:横浜
+URL:https://www.hareruyamtg.com/ja/events/668245/detail
 DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
@@ -192,6 +183,15 @@ SUMMARY:パウパー虎王決定戦
 LOCATION:郡山
 URL:https://www.hareruyamtg.com/ja/events/658692/detail
 DESCRIPTION:フォーマット: pauper
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-667807@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261213T120000
+DTEND;TZID=Asia/Tokyo:20261213T140000
+SUMMARY:【8\,000ポイント争奪】晴れる屋パウパー杯[決勝SEあり]
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/667807/detail
+DESCRIPTION:フォーマット: pauper\nタグ: 決勝SEあり
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-660141@hareruyamtg.com
@@ -228,6 +228,15 @@ SUMMARY:パウパー神挑戦者決定戦トライアル[スイス+決勝SE]
 LOCATION:TC東京
 URL:https://www.hareruyamtg.com/ja/events/662070/detail
 DESCRIPTION:フォーマット: pauper\nタグ: スイス+決勝SE
+END:VEVENT
+BEGIN:VEVENT
+UID:hareruya-667909@hareruyamtg.com
+DTSTART;TZID=Asia/Tokyo:20261226T120000
+DTEND;TZID=Asia/Tokyo:20261226T140000
+SUMMARY:【カード被りアリ！】ポイント争奪チーム杯パウパー
+LOCATION:宇都宮
+URL:https://www.hareruyamtg.com/ja/events/667909/detail
+DESCRIPTION:フォーマット: pauper
 END:VEVENT
 BEGIN:VEVENT
 UID:hareruya-659528@hareruyamtg.com
