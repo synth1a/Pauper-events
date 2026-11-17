@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16 19:24",
+  "fetched_at": "2026-11-17 20:22",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
@@ -231,6 +231,22 @@
       "fee": 2000
     },
     {
+      "id": "668245",
+      "title": "パウパー神挑戦者決定戦トライアル",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/668245/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 1000
+    },
+    {
       "id": "666392",
       "title": "シングルカード争奪パウパー[決勝SE]",
       "date": "2026-12-05",
@@ -262,22 +278,6 @@
       "shop": "大須",
       "shop_key": "osu",
       "shop_id": 18,
-      "fee": 1000
-    },
-    {
-      "id": "668245",
-      "title": "パウパー神挑戦者決定戦トライアル",
-      "date": "2026-12-06",
-      "time": "12:00",
-      "weekday": "日",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/668245/detail",
-      "shop": "横浜",
-      "shop_key": "yokohama",
-      "shop_id": 10,
       "fee": 1000
     },
     {
