@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-17 20:22",
+  "fetched_at": "2026-11-18 19:55",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 29,
+  "total": 30,
   "events": [
     {
       "id": "659219",
@@ -431,6 +431,22 @@
       "shop_key": "utsunomiya",
       "shop_id": 14,
       "fee": 3000
+    },
+    {
+      "id": "669646",
+      "title": "12,000ポイント争奪パウパー杯",
+      "date": "2026-12-26",
+      "time": "12:00",
+      "weekday": "土",
+      "formats": [
+        "pauper"
+      ],
+      "tags": [],
+      "url": "https://www.hareruyamtg.com/ja/events/669646/detail",
+      "shop": "横浜",
+      "shop_key": "yokohama",
+      "shop_id": 10,
+      "fee": 1500
     },
     {
       "id": "659528",
