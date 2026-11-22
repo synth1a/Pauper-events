@@ -1,42 +1,10 @@
 {
-  "fetched_at": "2026-11-21 19:29",
+  "fetched_at": "2026-11-22 19:33",
   "format_filter": "pauper",
   "days_filter": null,
   "se_only": true,
-  "total": 30,
+  "total": 28,
   "events": [
-    {
-      "id": "659219",
-      "title": "【東海王前哨戦】晴れる屋パウパー杯DX",
-      "date": "2026-11-21",
-      "time": "11:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/659219/detail",
-      "shop": "名古屋",
-      "shop_key": "nagoya",
-      "shop_id": 6,
-      "fee": 1000
-    },
-    {
-      "id": "647594",
-      "title": "8,000ポイント争奪パウパー",
-      "date": "2026-11-21",
-      "time": "13:00",
-      "weekday": "土",
-      "formats": [
-        "pauper"
-      ],
-      "tags": [],
-      "url": "https://www.hareruyamtg.com/ja/events/647594/detail",
-      "shop": "三宮",
-      "shop_key": "sannomiya",
-      "shop_id": 19,
-      "fee": 1000
-    },
     {
       "id": "645666",
       "title": "パウパー神挑戦者決定戦トライアル[スイス+決勝SE]",
